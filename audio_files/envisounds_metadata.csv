@@ -1,0 +1,535 @@
+﻿LP,FileName,Category,Subcategory,Database,OriginalFileName,Duration,SampleRate,TotalSamples,Channels,BitsPerSample,Type,BackgroundNoise,MaskingEffect,Movement,Distance,SoundSource,Notes
+1,'BirdSong_01_MONO.wav',Nature,animals,Cornell Lab of Ornithology,'Black-capped Chickadee Song',3.0000,44100,132300,1,16,F,0,0,0,0,0,
+2,'BirdSong_02_MONO.wav',Nature,animals,Cornell Lab of Ornithology,'12 Black-capped Chickadee Call.wav',3.0000,44100,132300,1,16,F,0,0,0,0,0,
+3,'BirdSong_03_MONO.wav',Nature,animals,Cornell Lab of Ornithology,'13 Tufted Titmouse Song.wav',3.0000,44100,132301,1,16,F,1,0,0,0,0,"Ambient outdoor sound, very quiet"
+4,'BirdSong_04_MONO.wav',Nature,animals,Cornell Lab of Ornithology,'19 Dark-eyed Junco Song.wav',3.0000,44100,132299,1,16,F,0,0,0,0,0,
+5,'BirdSong_05_MONO.wav',Nature,animals,Cornell Lab of Ornithology,'22 Northern Cardinal Song 2.wav',2.999569161,44100,132281,1,16,F,0,0,0,0,0,
+6,'BirdSong_06_MONO.wav',Nature,animals,Cornell Lab of Ornithology,'26 House Finch Song.wav',2.999659864,44100,132285,1,16,F,1,0,0,0,0,"Ambient outdoor sound, very quiet"
+7,'BirdSong_07_MONO.wav',Nature,animals,Cornell Lab of Ornithology,'16 White-crowned Sparrow Song 1.wav',2.999637188,44100,132284,1,16,F,1,0,0,0,0,"Ambient outdoor sound, very quiet"
+8,'BirdSong_08_MONO.wav',Nature,animals,Cornell Lab of Ornithology,'17 White-crowned Sparrow Song 2.wav',3.0000,44100,132300,1,16,F,0,0,0,0,0,
+9,BirdSong_09_MONO.wav',Nature,animals,Cornell Lab of Ornithology,'21 Cassin''s Finch Song.wav',3.0000,44100,132302,1,16,F,1,0,0,0,0,
+10,BirdSong_10_MONO.wav',Nature,animals,Cornell Lab of Ornithology,"29 American Goldfinch Song, Call'",2.4869161,44100,109673,1,16,F,1,0,0,0,0,
+11,'BirdSquawk_01_MONO.wav',Nature,animals,BBC Sound Effects,'07059122_Peacocks - several birds calling at night',2.502721088,44100,110370,1,16,F,0,0,0,0,0,
+12,'BirdSquawk_02_MONO.wav',Nature,animals,BBC Sound Effects,'07059124_Ducks - solo (NZ)',2.597414966,44100,114546,1,16,F,1,0,0,0,0,"Ambient outdoor sound, very quiet and some water"
+13,'BirdSquawk_03_MONO.wav',Nature,animals,BBC Sound Effects,"'07059120_Kea - call, single'",2.588684807,44100,114161,1,16,F,0,0,0,0,0,
+14,BirdSquawk_04_MONO.wav',Nature,animals,zapsplat.com,'BIRD-KOOKABURRA_GEN-HDF-03898_preview.wav',2.986689342,44100,131713,1,16,F,0,0,0,0,0,
+15,'BirdSquawk_05_MONO.wav',Nature,animals,SoundBible.com,'Parots Talking-587469366.wav',2.762403628,44100,121822,1,16,F,1,0,0,0,0,Ambient indoor sound
+16,'BirdSquawk_06_MONO.wav',Nature,animals,Adobe Systems Incorporated,'Animal Bird Peacock Call 01.wav',0.930657596,44100,41042,1,16,F,0,0,0,0,0,
+17,BirdSquawk_07_MONO.wav',Nature,animals,zapsplat.com,'zapsplat_animals_bird_parrot_black_cockatoo_squawk_single_003_28297.wav',0.74399093,44100,32810,1,16,F,0,0,0,0,0,
+18,'BirdSquawk_08_MONO.wav',Nature,animals,OrangeFreeSounds.com,'Macaw-sounds.wav',2.999637188,44100,132284,1,16,F,1,0,0,0,0,Ambient indoor sound
+19,'BirdSquawk_09_MONO.wav',Nature,animals,OrangeFreeSounds.com,'Mallard-duck-squawk.wav',3.0000,44100,132300,1,16,F,1,0,0,0,0,Ambient outdoor sound and water
+20,'BirdSquawk_10_MONO.wav',Nature,animals,OrangeFreeSounds.com,'Peacock-noise.wav',1.7763,44100,78336,1,16,F,1,0,0,0,0,Ambient outdoor sound
+21,'BirdsFlyingOff_01_MONO.wav',Nature,animals,BBC Sound Effects,'07030067_Pigeons Flying out of coop',2.858843537,44100,126075,1,16,F,0,0,1,0,1,
+22,'BirdsFlyingOff_02_MONO.wav',Nature,animals,BBC Sound Effects,"'07030068_Pigeons Flying, Chasing in coop'",3.0000,44100,132300,1,16,F,0,0,1,0,1,
+23,'BirdsFlyingOff_03_MONO.wav',Nature,animals,zapsplat.com,'zapsplat_animals_bird_magpie_fly_away_wings_flap_close_up_001_30963.wav',1.828571429,44100,80640,1,16,F,0,0,1,0,0,
+24,'BirdsFlyingOff_04_MONO.wav',Nature,animals,BBC Sound Effects,"'07030068_Pigeons Flying, Chasing in coop'",2.515623583,44100,110939,1,16,F,1,0,1,0,1,Pigeon(s) cooing
+25,'BirdsFlyingOff_05_MONO.wav',Nature,animals,BBC Sound Effects,'07030069_Pigeons Flying off',2.980839002,44100,131455,1,16,F,1,0,1,0,1,"Birds chirping, very quiet"
+26,'BirdsFlyingOff_06_MONO.wav',Nature,animals,BBC Sound Effects,'07030070_Pigeons Flying off',2.590136054,44100,114225,1,16,F,0,0,1,0,1,
+27,'BirdsFlyingOff_07_MONO.wav',Nature,animals,BBC Sound Effects,'07030071_Pigeons Flying off',2.857188209,44100,126002,1,16,F,0,0,1,0,1,
+28,'BirdsFlyingOff_08_MONO.wav',Nature,animals,BBC Sound Effects,'07030072_Pigeons Flying off',2.927528345,44100,129104,1,16,F,1,0,1,0,1,Pigeon(s) cooing
+29,'BirdsFlyingOff_09_MONO.wav',Nature,animals,BBC Sound Effects,'07074107_Birds taking off - 1967',2.651791383,44100,116944,1,16,F,0,0,1,0,0,
+30,'BirdsFlyingOff_10_MONO.wav',Nature,animals,OrangeFreeSounds.com,'Flapping-wings.mp3',1.175510204,44100,51840,1,16,F,0,0,1,0,0,
+31,'CatHissing_01_MONO.wav',Nature,animals,FreeSound.org,'146960__zabuhailo__cathisses.wav',0.807210884,44100,35598,1,16,F,0,0,0,0,0,
+32,'CatHissing_02_MONO.wav',Nature,animals,YouTube,'ANGRY CATS HISS AND GROWL! Compilation (2017)',1.120680272,44100,49422,1,16,F,1,0,0,0,0,"Ambient noise, quiet"
+33,'CatHissing_03_MONO.wav',Nature,animals,FreeSound.org,'146963__zabuhailo__cathisses1.wav',1.513922902,44100,66764,1,16,F,0,0,0,0,0,
+34,'CatHissing_04_MONO.wav',Nature,animals,FreeSound.org,'343927__reitanna__hiss2',0.638548753,44100,28160,1,16,F,1,0,0,0,0,"Ambient noise, quiet"
+35,'CatHissing_05_MONO.wav',Nature,animals,FreeSound.org,'343928__reitanna__hiss3.wav',0.882358277,44100,38912,1,16,F,0,0,0,0,0,
+36,'CatHissing_06_MONO.wav',Nature,animals,FreeSound.org,'485952__aunrea__cat-hissing.wav',0.674671202,44100,29753,1,16,F,0,0,0,0,0,
+37,'CatHissing_07_MONO.wav',Nature,animals,OrangeFreeSounds.com,'Angry-cat-hissing-sound.wav',2.115918367,44100,93312,1,16,F,1,0,0,0,0,Ambient outdoor sound
+38,'CatHissing_08_MONO.wav',Nature,animals,OrangeFreeSounds.com,'Cat-hissing-sound.wav',0.914285714,44100,40320,1,16,F,1,0,0,0,0,"Ambient noise, quiet"
+39,'CatHissing_09_MONO.wav',Nature,animals,OrangeFreeSounds.com,'Cat-hissing-sound-2.wav',0.992653061,44100,43776,1,16,F,0,0,0,0,0,
+40,'CatHissing_10_MONO.wav',Nature,animals,OrangeFreeSounds.com,'Cat-meow-and-hiss-sounds.wav',1.491655329,44100,65782,1,16,F,1,0,0,0,0,Ambient outdoor sound
+41,'CatMeowing_01_MONO.wav',Nature,animals,SoundBible.com,'6_Cat_Meows-Mr_Smith-656280250.wav',2.741451247,44100,120898,1,16,F,1,0,0,0,0,"Ambient noise, quiet"
+42,'CatMeowing_02_MONO.wav',Nature,animals,SoundBible.com,'Cat Meow-SoundBible.com-1977450526.wav',1.251723356,44100,55201,1,16,F,0,0,0,0,0,
+43,'CatMeowing_03_MONO.wav',Nature,animals,SoundBible.com,'Cat_Meowing_2-Mr_Smith-780889994.wav',1.610521542,44100,71024,1,16,F,1,0,0,0,0,"Ambient noise, quiet"
+44,'CatMeowing_04_MONO.wav',Nature,animals,FreeSound.org,'58384__morgantj__cat-meow.wav',3,44100,132300,1,16,F,1,0,0,0,0,Ambient indoor sound
+45,'CatMeowing_05_MONO.wav',Nature,animals,FreeSound.org,'61259__timtube__cat-meowing.wav',0.862018141,44100,38015,1,16,F,0,0,0,0,0,
+46,'CatMeowing_06_MONO.wav',Nature,animals,FreeSound.org,'110011__tuberatanka__cat-meow.wav',1.544512472,44100,68113,1,16,F,1,0,0,0,0,"Ambient noise, quiet"
+47,'CatMeowing_07_MONO.wav',Nature,animals,FreeSound.org,'333916__lextrack__cat-meowing.wav',1.384489796,44100,61056,1,16,F,0,0,0,0,0,
+48,'CatMeowing_08_MONO.wav',Nature,animals,FreeSound.org,'454805__kaiandersen__cat-meow.wav',2.3,44100,101430,1,16,F,0,0,0,0,0,
+49,'CatMeowing_09_MONO.wav',Nature,animals,FreeSound.org,'133869__elethorpia__cat-meowing.wav',1.359705215,44100,59963,1,16,F,0,0,0,0,0,
+50,'CatMeowing_10_MONO.wav',Nature,animals,FreeSound.org,'110388__soundscalpel-com__animals-cat-meow-001.wav',1.032380952,44100,45528,1,16,F,0,0,0,0,0,
+51,'CatPurring_01_MONO.wav',Nature,animals,SoundBible.com,'Cat Purring-SoundBible.com-59878677 (1).wav',2.99723356,44100,132178,1,16,F,0,0,0,0,0,
+52,'CatPurring_02_MONO.wav',Nature,animals,SoundBible.com,'Purring Cat-SoundBible.com-1565496260.wav',3,44100,132300,1,16,F,0,0,0,0,0,Very close
+53,'CatPurring_03_MONO.wav',Nature,animals,FreeSound.org,'194926__soundmary__cat-purr.wav',2.999478458,44100,132277,1,16,F,0,0,0,0,0,Very close
+54,'CatPurring_04_MONO.wav',Nature,animals,FreeSound.org,'393895__rodzuz__cat-purr.wav',3,44100,132300,1,16,F,1,0,0,0,0,"Ambient noise, quiet"
+55,'CatPurring_05_MONO.wav',Nature,animals,FreeSound.org,'165106__applauseav__blissful-kitty-purring-loudly.wav',3.000022676,44100,132301,1,16,F,0,0,0,0,0,
+56,'CatPurring_06_MONO.wav',Nature,animals,FreeSound.org,'127110__grigore__cat-purring.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+57,'CatPurring_07_MONO.wav',Nature,animals,FreeSound.org,'37305__intimidated__catpurr.wav',2.972403628,44100,131083,1,16,F,0,0,0,0,0,Very close
+58,'CatPurring_08_MONO.wav',Nature,animals,FreeSound.org,'485373__aunrea__cat-purring.wav',2.999569161,44100,132281,1,16,F,0,0,0,0,0,
+59,'CatPurring_09_MONO.wav',Nature,animals,FreeSound.org,'381527__poovar__cat-purrs.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+60,'CatPurring_10_MONO.wav',Nature,animals,FreeSound.org,'264046__tom-woysky__cat-purr-purring-of-a-cat-mruczenie-kota.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+61,'CowMoo_01_MONO.wav',Nature,animals,Adobe Systems Incorporated,'Animal Mammal Cow Moo 01.wav',1.234671202,44100,54449,1,16,F,0,0,0,0,0,
+62,'CowMoo_02_MONO.wav',Nature,animals,Adobe Systems Incorporated,'Animal Mammal Herbivore Cattle Bellow 01.wav',2.029342404,44100,89494,1,16,F,0,0,0,0,0,
+63,'CowMoo_03_MONO.wav',Nature,animals,Adobe Systems Incorporated,'Animal Mammal Herbivore Cattle Bellow 02.wav',1.829342404,44100,80674,1,16,F,0,0,0,0,0,
+64,'CowMoo_04_MONO.wav',Nature,animals,Adobe Systems Incorporated,'Animal Mammal Herbivore Cattle Calf Bellow 01.wav',1.893333333,44100,83496,1,16,F,0,0,0,0,0,
+65,'CowMoo_05_MONO.wav',Nature,animals,SoundBible.com,'Cow Mooing-SoundBible.com-1530217877.wav',1.819092971,44100,80222,1,16,F,0,0,0,0,0,
+66,'CowMoo_06_MONO.wav',Nature,animals,SoundBible.com,'Cow_Moo-Mike_Koenig-42670858.wav',2.999931973,44100,132297,1,16,F,0,0,0,0,0,
+67,CowMoo_07_MONO.wav',Nature,animals,zapsplat.com,'felix_blume_animals_cow_moo_close.wav',2.52,44100,111132,1,16,F,0,0,0,0,0,
+68,'CowMoo_08_MONO.wav',Nature,animals,FreeSound.org,'58277__benboncan__cow',2.999886621,44100,132295,1,16,F,1,0,0,0,0,"Ambient noise, quiet"
+69,CowMoo_09_MONO.wav',Nature,animals,SoundBible.com,'Single Cow-SoundBible.com-2051754137.wav',1.494013605,44100,65886,1,16,F,0,0,0,0,0,
+70,'CowMoo_10_MONO.wav',Nature,animals,OrangeFreeSounds.com,'Cow-mooing-close-perspective.mp3',2.194285714,44100,96768,1,16,F,0,0,0,0,0,
+71,'DogBarking_01_MONO.wav',Nature,animals,BBC Sound Effects,"'07050178_CollieLabrador crosses, exterior, barking.wav'",3,44100,132300,1,16,F,0,0,0,0,0,
+72,'DogBarking_02_MONO.wav',Nature,animals,BBC Sound Effects,'07050193_Large Alsatian barking.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+73,'DogBarking_03_MONO.wav',Nature,animals,SoundBible.com,'cartoon-wolf-daniel_simon.wav',1.407913832,44100,62089,1,16,F,0,0,0,0,0,
+74,DogBarking_04_MONO.wav',Nature,animals,Adobe Systems Incorporated,'Animal Dog Bark 21.wav',1.594965986,44100,70338,1,16,F,0,0,0,0,0,
+75,'DogBarking_05_MONO.wav',Nature,animals,SoundBible.com,'german-shephard-daniel_simon.wav',2.212970522,44100,97592,1,16,F,0,0,0,0,0,
+76,DogBarking_06_MONO.wav',Nature,animals,Adobe Systems Incorporated,'Animal Dog Bark 26.wav',0.9,44100,39690,1,16,F,0,0,0,0,0,
+77,'DogBarking_07_MONO.wav',Nature,animals,SoundBible.com,'puppy-barking_ds.wav',2.981405896,44100,131480,1,16,F,0,0,0,0,0,
+78,'DogBarking_08_MONO.wav',Nature,animals,SoundBible.com,'small-dog-barking_daniel-simion.wav',2.97138322,44100,131038,1,16,F,0,0,0,0,0,Indoor echo
+79,'DogBarking_09_MONO.wav',Nature,animals,FreeSound.org,'9032__mistertood__dog-bark2.aup',2.831337868,44100,124862,1,16,F,0,0,0,0,0,
+80,'DogBarking_10_MONO.wav',Nature,animals,FreeSound.org,'38121__deprogram__bark.wav',2.995396825,44100,132097,1,16,F,0,0,0,0,0,
+81,'DogGrowling_01_MONO.wav',Nature,animals,SoundBible.com,'Growling_Snarling_Dogs-Lisa_Redfern-570128669.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+82,'DogGrowling_02_MONO.wav',Nature,animals,FreeSound.org,'445277__luzanne0__dog-groans.wav',2.596961451,44100,114526,1,16,F,0,0,0,0,0,
+83,'DogGrowling_03_MONO.wav',Nature,animals,FreeSound.org,'121565__juskiddink__dogs-growling.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+84,'DogGrowling_04_MONO.wav',Nature,animals,FreeSound.org,'235887__delphidebrain__sjuulke-growl-03.wav',1.2,44100,52920,1,16,F,0,0,0,0,0,
+85,DogGrowling_05_MONO.wav',Nature,animals,zapsplat.com,'glitched_tones_Dog+Shih+Tzu+Growling+03.wav',1.332244898,44100,58752,1,16,F,0,0,0,0,0,
+86,'DogGrowling_06_MONO.wav',Nature,animals,FreeSound.org,'366604__jittels__aggressive-dog-growl.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+87,'DogGrowling_07_MONO.wav',Nature,animals,FreeSound.org,'372531__glitchedtones__dog-shih-tzu-growling-01.wav',1.707959184,44100,75321,1,16,F,0,0,0,0,0,
+88,'DogGrowling_08_MONO.wav',Nature,animals,FreeSound.org,'401820__mystikuum__dog-growling-mono-4824.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+89,'DogGrowling_09_MONO.wav',Nature,animals,FreeSound.org,'420207__14fpanskabartakova-tereza__14-dog-growling.wav',2.999909297,44100,132296,1,16,F,1,0,1,0,0,Dog's steps on the floor
+90,'DogGrowling_10_MONO.wav',Nature,animals,FreeSound.org,'434049__klangfabrik__dog-growls.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+91,'DogHowling_01_MONO.wav',Nature,animals,SoundBible.com,'dog-howling-yapping-daniel_simon.wav',1.546077098,44100,68182,1,16,F,0,0,0,0,0,
+92,DogHowling_02_MONO.wav',Nature,animals,SoundBible.com,'Dog Howling At Moon-SoundBible.com-1369876823.wav',2.999047619,44100,132258,1,16,F,0,0,0,0,0,
+93,DogHowling_03_MONO.wav',Nature,animals,YouTube,'DOGS HOWLING to make your Dog Howl HD Sound Effect - from YouTube.wav',2.987981859,44100,131770,1,16,F,0,0,0,0,0,
+94,'DogHowling_04_MONO.wav',Nature,animals,FreeSound.org,'31243__pete668__jake-the-puppy.wav',3,44100,132300,1,16,F,1,0,0,0,0,Ambient indoor sound
+95,DogHowling_05_MONO.wav',Nature,animals,FreeSound.org,'DOGS HOWLING to make your Dog Howl HD Sound Effect - from YouTube.wav',1.77047619,44100,78078,1,16,F,1,0,0,0,0,Indoor echo
+96,'DogHowling_06_MONO.wav',Nature,animals,FreeSound.org,'55156__noisecollector__shaggyhowl2.wav',2.258049887,44100,99580,1,16,F,1,0,0,0,0,"Ambient noise, quiet"
+97,'DogHowling_07_MONO.wav',Nature,animals,FreeSound.org,'155310__jace__dog-disonant-howl.wav',2.77478458,44100,122368,1,16,F,1,0,0,0,0,"Birds chirping, very quiet"
+98,'DogHowling_08_MONO.wav',Nature,animals,FreeSound.org,'158974__cgeffex__dog-howl-03.wav',3,44100,132300,1,16,F,1,0,0,1,0,Ambient outdoor sound
+99,'DogHowling_09_MONO.wav',Nature,animals,FreeSound.org,'350593__austinxyz__chihuahua-puppy-whine.wav',1.072222222,44100,47285,1,16,F,0,0,0,0,0,
+100,'DogHowling_10_MONO.wav',Nature,animals,FreeSound.org,'432753__xpoki__dog-yowl.wav',1.253877551,44100,55296,1,16,F,0,0,0,0,0,
+101,'HorseGalloping_01_MONO.wav',Nature,animals,BBC Sound Effects,'07050104_Two horses canter past on gravelly track LR.wav',2.830408163,44100,124821,1,16,F,0,0,1,2,0,
+102,'HorseGalloping_02_MONO.wav',Nature,animals,BBC Sound Effects,'07050105_Two horses gallop past on gravelly track',2.779977324,44100,122597,1,16,F,0,0,1,2,0,
+103,'HorseGalloping_03_MONO.wav',Nature,animals,BBC Sound Effects,'07050106_Two horses walk under bridge on tarmac road (riders pers)',2.913537415,44100,128487,1,16,F,1,0,1,2,0,Ambiend (perhaps a tunnel)
+104,HorseGalloping_04_MONO.wav',Nature,animals,Adobe Systems Incorporated,'Animal Horse Trot By On Gravel 02.wav',2.880952381,44100,127050,1,16,F,1,0,1,2,0,Ambient outdoor sound
+105,'HorseGalloping_05_MONO.wav',Nature,animals,BBC Sound Effects,'07050116_One horse at trot through gras RL.wav',2.997777778,44100,132202,1,16,F,0,0,1,2,0,Muffled sound due to mushy surface 
+106,'HorseGalloping_06_MONO.wav',Nature,animals,BBC Sound Effects,'07050124_Two horses at trot LR',2.982335601,44100,131521,1,16,F,0,0,1,2,0,
+107,'HorseGalloping_07_MONO.wav',Nature,animals,BBC Sound Effects,'07050125_Two horses trot past on rough track LR.wav',2.998480726,44100,132233,1,16,F,0,0,1,2,0,
+108,'HorseGalloping_08_MONO.wav',Nature,animals,BBC Sound Effects,"'07050129_One horse approaches at walk, departs at trot LR.wav'",2.958684807,44100,130478,1,16,F,0,0,1,2,0,
+109,'HorseGalloping_09_MONO.wav',Nature,animals,BBC Sound Effects,'07050130_One horse canters past on rough track RL.wav',2.996666667,44100,132153,1,16,F,0,0,1,2,0,
+110,'HorseGalloping_10_MONO.wav',Nature,animals,BBC Sound Effects,'07050128_One horse restless on rough track.wav',2.999206349,44100,132265,1,16,F,0,0,1,2,0,
+111,'HorseNeighing_01_MONO.wav',Nature,animals,BBC Sound Effects,'07024156_Horses Whinnying',2.598163265,44100,114579,1,16,F,1,0,0,0,0,Outdoor ambient sound
+112,'HorseNeighing_02_MONO.wav',Nature,animals,BBC Sound Effects,'07024178_Horse Neighing',2.029705215,44100,89510,1,16,F,0,0,0,0,0,
+113,'HorseNeighing_03_MONO.wav',Nature,animals,BBC Sound Effects,'07050147_One horse neighs',2.187029478,44100,96448,1,16,F,0,0,0,0,0,
+114,'HorseNeighing_04_MONO.wav',Nature,animals,FreeSound.org,'19812__acclivity__neigh2.wav',2.998730159,44100,132244,1,16,F,0,0,0,0,0,
+115,'HorseNeighing_05_MONO.wav',Nature,animals,FreeSound.org,'79084__axiyee__redbarn-horse-whinny.wav',2.999274376,44100,132268,1,16,F,1,0,0,0,0,Indoor echo
+116,'HorseNeighing_06_MONO.wav',Nature,animals,FreeSound.org,'99222__blazecon0__horse.wav',1.299297052,44100,57299,1,16,F,0,0,0,0,0,
+117,'HorseNeighing_07_MONO.wav',Nature,animals,FreeSound.org,'321947__n-audioman__horseneigh02-03.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+118,'HorseNeighing_08_MONO.wav',Nature,animals,FreeSound.org,'418428__soundslikewillem__neighing-horse.wav',2.247052154,44100,99095,1,16,F,0,0,0,0,0,
+119,HorseNeighing_09_MONO.wav',Nature,animals,SoundBible.com,'Horse Neigh-SoundBible.com-1126369713.wav',1.724081633,44100,76032,1,16,F,1,0,0,0,0,Very close
+120,'HorseNeighing_10_MONO.wav',Nature,animals,FreeSound.org,'419231__inspectorj__horse-whinny-close-a.wav',2.73723356,44100,120712,1,16,F,0,0,0,0,0,
+121,'HorseSnorting_01_MONO.wav',Nature,animals,BBC Sound Effects,'07024150_Horses Two Snorts',2.944421769,44100,129849,1,16,F,1,0,1,0,0,Ambient outdoor sound and horse's steps when moving
+122,'HorseSnorting_02_MONO.wav',Nature,animals,BBC Sound Effects,'07024179_Horse Snorting.wav',0.722290249,44100,31853,1,16,F,0,0,0,0,0,
+123,'HorseSnorting_03_MONO.wav',Nature,animals,BBC Sound Effects,'07024180_Horse Snorting.wav',0.962290249,44100,42437,1,16,F,0,0,0,0,0,
+124,'HorseSnorting_04_MONO.wav',Nature,animals,FreeSound.org,'322454__goodlistener__horse-snort-2.wav',1.268956916,44100,55961,1,16,F,0,0,0,0,0,
+125,'HorseSnorting_05_MONO.wav',Nature,animals,FreeSound.org,'418427__soundslikewillem__snorting-horse.wav',2.967120181,44100,130850,1,16,F,0,0,0,0,0,
+126,HorseSnorting_06_MONO.wav',Nature,animals,FreeSound.org,'450344__veromarengere__01-horsesnort.wav',2.345941043,44100,103456,1,16,F,0,0,0,0,0,
+127,'HorseSnorting_07_MONO.wav',Nature,animals,FreeSound.org,'475479__o-ciz__horse-snort-2.wav',0.56399093,44100,24872,1,16,F,0,0,0,0,0,
+128,'HorseSnorting_08_MONO.wav',Nature,animals,Adobe Systems Incorporated,'Animal Horse Snort 01.wav',0.895782313,44100,39504,1,16,F,0,0,0,0,0,
+129,'HorseSnorting_09_MONO.wav',Nature,animals,Adobe Systems Incorporated,'Animal Horse Snort 02.wav',0.744693878,44100,32841,1,16,F,0,0,0,0,0,
+130,'HorseSnorting_10_MONO.wav',Nature,animals,zapsplat.com,'animals_horse_snort_breath_out.wav',0.809795918,44100,35712,1,16,F,0,0,0,0,0,
+131,'InsectBuzzing_01_MONO.wav',Nature,animals,SoundBible.com,'Bee-914644763.wav',2.8,44100,123480,1,16,0,0,0,1,0,0,
+132,'InsectBuzzing_02_MONO.wav',Nature,animals,SoundBible.com,'188708__zywx__flying-mosquito.wav',2.999727891,44100,132288,1,16,0,0,0,1,0,0,
+133,'InsectBuzzing_03_MONO.wav',Nature,animals,SoundBible.com,'Wasp-863699866.wav',3,44100,132300,1,16,0,0,0,1,0,0,
+134,'InsectBuzzing_04_MONO.wav',Nature,animals,OrangeFreeSounds.com,'Wasp-sound.wav',3,44100,132300,1,16,0,0,0,1,0,0,
+135,'InsectBuzzing_05_MONO.wav',Nature,animals,FreeSound.org,'99956__cgeffex__bumble-bee-short.wav',3,44100,132300,1,16,0,0,0,1,0,0,
+136,'InsectBuzzing_06_MONO.wav',Nature,animals,FreeSound.org,'103047__department64__bee-buzzin-02.wav',2.730680272,44100,120423,1,16,0,0,0,1,0,0,"Ambient outdoor sound, some bird chirping"
+137,'InsectBuzzing_07_MONO.wav',Nature,animals,FreeSound.org,'134813__zedkah__bee-beat.wav',2.43723356,44100,107482,1,16,0,0,0,1,0,0,
+138,'InsectBuzzing_08_MONO.wav',Nature,animals,FreeSound.org,'440422__cribbler__fly-buzzing-1.wav',1.562653061,44100,68913,1,16,0,0,0,1,1,0,
+139,'InsectBuzzing_09_MONO.wav',Nature,animals,FreeSound.org,'466795__breviceps__bumblebee.wav',3,44100,132300,1,16,0,0,0,1,0,0,
+140,'InsectBuzzing_10_MONO.wav',Nature,animals,SoundBible.com,'Grasshopper-SoundBible.com-1592176719.wav',2.877687075,44100,126906,1,16,0,0,0,1,0,0,
+141,'InsectsStridulation_01_MONO.wav',Nature,animals,Adobe Systems Incorporated,'Animal Ambience Crickets Near A Stream 01.wav',3,44100,132300,1,16,B,0,0,0,0,1,
+142,'InsectsStridulation_02_MONO.wav',Nature,animals,Adobe Systems Incorporated,'Animal Ambience Jungle Rain Forest Insects Creatures 01.wav',2.999886621,44100,132295,1,16,B,0,0,0,0,1,
+143,'InsectsStridulation_03_MONO.wav',Nature,animals,Adobe Systems Incorporated,'Animal Ambience Jungle Rain Forest Insects Creatures 02.wav',3,44100,132300,1,16,B,0,0,0,0,1,
+144,'InsectsStridulation_04_MONO.wav',Nature,animals,FreeSound.org,'18678__dobroide__20060426-marsh-crikets-day-stereo-02.wav',3.000045351,44100,132302,1,16,B,1,0,0,0,1,Thunder rumbling in distance
+145,'InsectsStridulation_05_MONO.wav',Nature,animals,FreeSound.org,'241068__aguasonic__ag12mar2007trk6.wav',2.999931973,44100,132297,1,16,B,0,0,0,0,1,
+146,'InsectsStridulation_06_MONO.wav',Nature,animals,FreeSound.org,'315910__arnaud-coutancier__striduling-night-insects-on-seashore.wav',3.000022676,44100,132301,1,16,B,1,0,0,0,1,Ambient outdoor sound
+147,'InsectsStridulation_07_MONO.wav',Nature,animals,FreeSound.org,'317445__nigelcoop__cricket-2.wav',2.999818594,44100,132292,1,16,B,0,0,0,0,1,
+148,'InsectsStridulation_08_MONO.wav',Nature,animals,OrangeFreeSounds.com,'Cricket-noise.wav',2.99984127,44100,132293,1,16,B,0,0,0,0,1,
+149,'InsectsStridulation_09_MONO.wav',Nature,animals,OrangeFreeSounds.com,'Crickets-chirping.wav',2.999569161,44100,132281,1,16,B,0,0,0,0,1,
+150,'InsectsStridulation_10_MONO.wav',Nature,animals,OrangeFreeSounds.com,'Katydid-sound.wav',3,44100,132300,1,16,B,0,0,0,0,1,
+151,'Fire_01_MONO.wav',Nature,environment,FreeSound.org,'65748__dobroide__20081231-fire-02.wav',3,44100,132300,1,16,B,0,0,0,0,0,
+152,'Fire_02_MONO.wav',Nature,environment,FreeSound.org,'74964__zmb94__campfire-2.wav',3,44100,132300,1,16,B,0,0,0,0,0,
+153,'Fire_03_MONO.wav',Nature,environment,FreeSound.org,'104958__glaneur-de-sons__petit-feu-little-fire-2.wav',2.99707483,44100,132171,1,16,B,0,0,0,1,0,
+154,'Fire_04_MONO.wav',Nature,environment,FreeSound.org,'234288__leosalom__fireplace.wav',3,44100,132300,1,16,B,0,0,0,0,0,
+155,'Fire_05_MONO.wav',Nature,environment,FreeSound.org,'260713__daenerys__fire-crackling.wav',3,44100,132300,1,16,B,0,0,0,0,0,
+156,'Fire_06_MONO.wav',Nature,environment,FreeSound.org,'320231__kukensius__by-a-small-fire.wav',3,44100,132300,1,16,B,0,0,0,0,0,Very close
+157,'Fire_07_MONO.wav',Nature,environment,FreeSound.org,'363092__fractalstudios__fire-crackle-and-flames-002.wav',3,44100,132300,1,16,B,0,0,0,0,0,
+158,'Fire_08_MONO.wav',Nature,environment,FreeSound.org,'386751__ken788__fire.wav',3,44100,132300,1,16,B,0,0,0,0,0,Very close
+159,'Fire_09_MONO.wav',Nature,environment,FreeSound.org,'408531__aj170193__fire-ambience.wav',3,44100,132300,1,16,B,0,0,0,0,0,
+160,'Fire_10_MONO.wav',Nature,environment,FreeSound.org,'483311__craigsmith__r09-67-small-crackling-fire.wav',2.993968254,44100,132034,1,16,B,0,0,0,0,0,
+161,'River_01_MONO.wav',Nature,environment,SoundBible.com,'River Noise-SoundBible.com-269475796.wav',3,44100,132300,1,16,B,0,0,1,0,0,
+162,'River_02_MONO.wav',Nature,environment,FreeSound.org,'26402__roscoetoon__fountain1.wav',2.972154195,44100,131072,1,16,B,0,0,1,0,0,
+163,River_03_MONO.wav',Nature,environment,zapsplat.com,'ftus_stream_running_gentle_flow_vietnam_595.wav',2.866780045,44100,126425,1,16,B,0,0,1,0,0,
+164,River_04_MONO.wav',Nature,environment,zapsplat.com,"'lilesound_4_Stream+Water,+Medium+Flow.wav'",2.955759637,44100,130349,1,16,B,0,0,1,0,0,Very close
+165,'River_05_MONO.wav',Nature,environment,FreeSound.org,'171668__sittstav__small-stream-2-looped.wav',3,44100,132300,1,16,B,0,0,1,0,0,Very close
+166,'River_06_MONO.wav',Nature,environment,FreeSound.org,'410989__afrocks__water.wav',3,44100,132300,1,16,B,0,0,1,0,0,
+167,'River_07_MONO.wav',Nature,environment,FreeSound.org,'411213__straget__waterstream-small.wav',3,44100,132300,1,16,B,0,0,1,0,0,
+168,'River_08_MONO.wav',Nature,environment,FreeSound.org,'419119__someonecool15__flowing-stream.wav',3,44100,132300,1,16,B,0,0,1,0,0,
+169,'River_09_MONO.wav',Nature,environment,FreeSound.org,'441091__kevp888__voc-150720-1073waterstream.wav',3,44100,132300,1,16,B,0,0,1,0,0,Very close
+170,'River_10_MONO.wav',Nature,environment,FreeSound.org,'474915__rfcaldas__water-stream-next-to-sea.wav',3,44100,132300,1,16,B,0,0,1,0,0,
+171,SeaWaves_01_MONO.wav',Nature,environment,zapsplat.com,'west_wolf_Beach_Sea_Waves.wav',2.962471655,44100,130645,1,16,B,0,0,1,0,0,
+172,'SeaWaves_02_MONO.wav',Nature,environment,SoundBible.com,Beach Waves-SoundBible.com-1024681188.wav',2.999863946,44100,132294,1,16,B,1,0,1,0,0,Wind hitting the microphone
+173,'SeaWaves_03_MONO.wav',Nature,environment,FreeSound.org,'77467__ra-gun__sea-waves-medium-01-090714.wav',3,44100,132300,1,16,B,0,0,1,0,0,
+174,'SeaWaves_04_MONO.wav',Nature,environment,FreeSound.org,'77468__ra-gun__sea-waves-medium-02-090714.wav',3,44100,132300,1,16,B,0,0,1,0,0,
+175,'SeaWaves_05_MONO.wav',Nature,environment,FreeSound.org,'77469__ra-gun__sea-waves-splash-gully-090714.wav',3,44100,132300,1,16,B,0,0,1,0,0,
+176,'SeaWaves_06_MONO.wav',Nature,environment,FreeSound.org,'125966__ryding__waves-in-sea.wav',3,44100,132300,1,16,B,0,0,1,0,0,
+177,'SeaWaves_07_MONO.wav',Nature,environment,FreeSound.org,'133863__vhlam__ext-red-sea.wav',2.998911565,44100,132252,1,16,B,0,0,1,0,0,
+178,'SeaWaves_08_MONO.wav',Nature,environment,FreeSound.org,'236695__klankbeeld__ogg-versus-wav-48khz-sample.wav',3,44100,132300,1,16,B,1,0,1,0,0,Ambient outdoor sound
+179,'SeaWaves_09_MONO.wav',Nature,environment,FreeSound.org,'347707__desdur__stormy-sea.wav',3,44100,132300,1,16,B,0,0,1,0,0,Very close
+180,'SeaWaves_10_MONO.wav',Nature,environment,FreeSound.org,'470661__gt-torre__sea.wav',3,44100,132300,1,16,B,0,0,1,0,0,Very close
+181,'Waterfall_01_MONO.wav',Nature,environment,SoundBible.com,'large_waterfall_1-daniel_simon.wav',3,44100,132300,1,16,B,0,0,1,0,0,Very close
+182,'Waterfall_02_MONO.wav',Nature,environment,FreeSound.org,'45522__juliofantasma__cachoeira.wav',2.916825397,44100,128632,1,16,B,0,0,1,0,0,Very close
+183,'Waterfall_03_MONO.wav',Nature,environment,FreeSound.org,'108634__kordoz__waterfall-creek.wav',3,44100,132300,1,16,B,0,0,1,1,0,
+184,'Waterfall_04_MONO.wav',Nature,environment,FreeSound.org,'130232__dikolson__ingvellir-waterfall-hard-1.wav',3,44100,132300,1,16,B,0,0,1,1,0,
+185,'Waterfall_05_MONO.wav',Nature,environment,FreeSound.org,'250770__ninafoletti__river-waterfall-2.wav',3,44100,132300,1,16,B,0,0,1,0,0,
+186,'Waterfall_06_MONO.wav',Nature,environment,FreeSound.org,'259626__stevious42__public-waterfall.wav',3,44100,132300,1,16,B,0,0,1,0,0,
+187,'Waterfall_07_MONO.wav',Nature,environment,FreeSound.org,'273302__mrauralization__waterfall.wav',3,44100,132300,1,16,B,0,0,1,0,0,
+188,'Waterfall_08_MONO.wav',Nature,environment,FreeSound.org,'321886__nsmusic__waterfall.wav',2.924217687,44100,128958,1,16,B,0,0,1,0,0,
+189,'Waterfall_09_MONO.wav',Nature,environment,FreeSound.org,'489073__straget__waterfall.wav',3,44100,132300,1,16,B,0,0,1,0,0,Very close
+190,'Waterfall_10_MONO.wav',Nature,environment,FreeSound.org,'442578__wangzhuokun__180925-002-waterfall-close-vortex.wav',2.599954649,44100,114658,1,16,B,0,0,1,0,0,
+191,'ChildrenPlaying_01_MONO.wav',Human,vocal nonspeech,FreeSound.org,'60591__brn__children.wav',3,44100,132300,1,16,B,0,0,1,1,1,
+192,'ChildrenPlaying_02_MONO.wav',Human,vocal nonspeech,FreeSound.org,'105415__tomlija__elementary-school-schoolyard.wav',3,44100,132300,1,16,B,0,0,1,0,1,
+193,'ChildrenPlaying_03_MONO.wav',Human,vocal nonspeech,FreeSound.org,'190894__yacou__children1.wav',3,44100,132300,1,16,B,0,0,1,0,1,
+194,'ChildrenPlaying_04_MONO.wav',Human,vocal nonspeech,FreeSound.org,'221585__eleftheria93__school.wav',3,44100,132300,1,16,B,0,0,1,0,1,
+195,'ChildrenPlaying_05_MONO.wav',Human,vocal nonspeech,FreeSound.org,'417551__rui-aires__kids-playing-school.wav',3,44100,132300,1,16,B,0,0,1,0,1,
+196,'ChildrenPlaying_06_MONO.wav',Human,vocal nonspeech,FreeSound.org,'479845__craigsmith__r29-45-group-of-children-playing.wav',3,44100,132300,1,16,B,0,0,1,1,1,
+197,'ChildrenPlaying_07_MONO.wav',Human,vocal nonspeech,FreeSound.org,'480699__craigsmith__r08-16-children-playing-and-screaming.wav',3,44100,132300,1,16,B,0,0,1,0,1,
+198,'ChildrenPlaying_08_MONO.wav',Human,vocal nonspeech,FreeSound.org,'60935__nicstage__kidsplaying1.wav',3,44100,132300,1,16,B,1,0,1,0,1,Insectst stridulation
+199,'ChildrenPlaying_09_MONO.wav',Human,vocal nonspeech,FreeSound.org,'15564__tigersound__kids-playing.wav',3,44100,132300,1,16,B,1,0,1,0,1,Echo and birds chirping
+200,'ChildrenPlaying_10_MONO.wav',Human,vocal nonspeech,FreeSound.org,'211680__klankbeeld__kids-gardenhose-130723-02.wav',3,44100,132300,1,16,B,0,0,1,1,1,
+201,'CocktailParty_01_MONO.wav',Human,vocal speech,FreeSound.org,'72848__7by7__posh-dinner-party.wav',3,44100,132300,1,16,B,1,0,0,0,1,Clatter of cuttlery
+202,'CocktailParty_02_MONO.wav',Human,vocal speech,FreeSound.org,'152874__mlteenie__club-chatter-london.wav',3,44100,132300,1,16,B,0,0,0,0,1,
+203,'CocktailParty_03_MONO.wav',Human,vocal speech,FreeSound.org,'235240__jaredpass24__crowd-walla-medium-distance.wav',3,44100,132300,1,16,B,0,0,0,1,1,
+204,'CocktailParty_04_MONO.wav',Human,vocal speech,FreeSound.org,'333395__jayfrosting__murmur-1.wav',2.999795918,44100,132291,1,16,B,0,0,0,0,1,
+205,'CocktailParty_05_MONO.wav',Human,vocal speech,FreeSound.org,'382583__macdaddyno1__public-atmosphere-ambiance.wav',3,44100,132300,1,16,B,0,0,0,0,1,Very close
+206,'CocktailParty_06_MONO.wav',Human,vocal speech,FreeSound.org,'424790__bolkmar__crowded-street-at-medieval-market.wav',3,44100,132300,1,16,B,0,0,0,0,1,
+207,'CocktailParty_07_MONO.wav',Human,vocal speech,FreeSound.org,'457339__pooh1-0__group-talk-of-a-crowd.wav',2.994058957,44100,132038,1,16,B,0,0,0,1,1,
+208,'CocktailParty_08_MONO.wav',Human,vocal speech,FreeSound.org,'486181__craigsmith__r08-32-men-and-women-talking.wav',3,44100,132300,1,16,B,0,0,0,0,1,
+209,'CocktailParty_09_MONO.wav',Human,vocal speech,FreeSound.org,'486191__craigsmith__r08-42-market-scene.wav',3,44100,132300,1,16,B,0,0,0,0,1,
+210,CocktailParty_10_MONO.wav',Human,vocal speech,FreeSound.org,'421659__florianreichelt__sri-lankan-market-atmosphere.wav',2.989070295,44100,131818,1,16,B,0,0,0,0,1,
+211,'CoughingAdultFemale_01_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Female Cough 01.wav',1.331995465,44100,58741,1,16,F,0,0,0,0,0,
+212,'CoughingAdultFemale_02_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Female Cough 02.wav',1.202675737,44100,53038,1,16,F,0,0,0,0,0,
+213,'CoughingAdultFemale_03_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Female Cough Clear Throat Cough 01.wav',0.741337868,44100,32693,1,16,F,0,0,0,0,0,
+214,'CoughingAdultFemale_04_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Female Cough Short Cough 01.wav',0.91600907,44100,40396,1,16,F,0,0,0,0,0,
+215,CoughingAdultFemale_05_MONO.wav',Human,respiratory,zapsplat.com,'zapsplat_human_cough_female_60_years_old_003_14551.wav',1.248004535,44100,55037,1,16,F,0,0,0,0,0,Very close
+216,'CoughingAdultFemale_06_MONO.wav',Human,respiratory,FreeSound.org,'240375__mariiao2__cough.wav',0.809795918,44100,35712,1,16,F,0,0,0,0,0,
+217,'CoughingAdultFemale_07_MONO.wav',Human,respiratory,FreeSound.org,'251489__aderumoro__cough-young-lady.wav',0.751746032,44100,33152,1,16,F,0,0,0,0,0,
+218,'CoughingAdultFemale_08_MONO.wav',Human,respiratory,FreeSound.org,'326096__1980supra__cough-cough.wav',1.056507937,44100,46592,1,16,F,0,0,0,0,0,
+219,'CoughingAdultFemale_09_MONO.wav',Human,respiratory,FreeSound.org,'343986__reitanna__four-coughs.wav',1.462857143,44100,64512,1,16,F,0,0,0,0,0,
+220,CoughingAdultFemale_10_MONO.wav',Human,respiratory,zapsplat.com,'zapsplat_human_cough_female_60_years_old_002_14550.wav',1.031995465,44100,45511,1,16,F,0,0,0,0,0,Very close
+221,'CoughingAdultMale_01_MONO.wav',Human,respiratory,SoundBible.com,'cough_3x-Mike_Koenig-1796660265.wav',1.81446712,44100,80018,1,16,F,0,0,0,0,0,
+222,CoughingAdultMale_02_MONO.wav',Human,respiratory,Adobe Systems Incorporated,Human Male Coughing 02.wav',1.19425,44100,57324,1,16,F,0,0,0,0,0,
+223,'CoughingAdultMale_03_MONO.wav',Human,respiratory,SoundBible.com,'Cough-1409703798.wav',1.029206349,44100,45388,1,16,F,0,0,0,0,0,
+224,'CoughingAdultMale_04_MONO.wav',Human,respiratory,SoundBible.com,'Dry Cough-1957692509.wav',1.057142857,44100,46620,1,16,F,0,0,0,0,0,
+225,'CoughingAdultMale_05_MONO.wav',Human,respiratory,SoundBible.com,'Man Coughing-534729802.wav',1.211428571,44100,53424,1,16,F,0,0,0,0,0,
+226,'CoughingAdultMale_06_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Male Cough 01.wav',2.140657596,44100,94403,1,16,F,0,0,0,0,0,
+227,'CoughingAdultMale_07_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Male Cough 02.wav',1.502653061,44100,66267,1,16,F,0,0,0,0,0,
+228,'CoughingAdultMale_08_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Male Cough Old Man Cough 01.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+229,'CoughingAdultMale_09_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Male Cough Smokers Cough 01.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+230,'CoughingAdultMale_10_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Male Cough 03.wav',1.014671202,44100,44747,1,16,F,0,0,0,0,0,
+231,'CrowdApplause_01_MONO.wav',Human,motor,SoundBible.com,'Audience_Applause-Matthiew11-1206899159.wav',2.999863946,44100,132294,1,16,FB,0,0,0,0,1,
+232,'CrowdApplause_02_MONO.wav',Human,motor,SoundBible.com,'Auditorium Applause-280911206.wav',2.999727891,44100,132288,1,16,FB,0,0,0,1,1,
+233,'CrowdApplause_03_MONO.wav',Human,motor,SoundBible.com,'Ovation-Mike_Koenig-1061486511.wav',2.999909297,44100,132296,1,16,FB,0,0,0,0,1,
+234,'CrowdApplause_04_MONO.wav',Human,motor,SoundBible.com,'Crowd_Applause-Thore-672347161.wav',2.999795918,44100,132291,1,16,FB,0,0,0,1,1,
+235,'CrowdApplause_05_MONO.wav',Human,motor,SoundBible.com,'SMALL_CROWD_APPLAUSE-Yannick_Lemieux-1268806408.wav',2.796575964,44100,123329,1,16,FB,0,0,0,0,1,
+236,'CrowdApplause_06_MONO.wav',Human,motor,FreeSound.org,'25295__freesound__claping-ses1.wav',2.999614512,44100,132283,1,16,FB,0,0,0,0,1,
+237,'CrowdApplause_07_MONO.wav',Human,motor,FreeSound.org,'72066__robinhood76__01027-applause-small-25.wav',3,44100,132300,1,16,FB,0,0,0,0,1,
+238,'CrowdApplause_08_MONO.wav',Human,motor,FreeSound.org,'196330__noisecollector__claps-smallgroup-loopkillerbbc.wav',2.815396825,44100,124159,1,16,FB,0,0,0,0,1,
+239,'CrowdApplause_09_MONO.wav',Human,motor,FreeSound.org,'220836__britg__audience-applause.wav',3,44100,132300,1,16,FB,0,0,0,1,1,
+240,'CrowdApplause_10_MONO.wav',Human,motor,FreeSound.org,'51743__erkanozan__applause.wav',2.999954649,44100,132298,1,16,FB,0,0,0,0,1,
+241,'CrowdCheering_01_MONO.wav',Human,motor & vocal,SoundBible.com,'5_Sec_Crowd_Cheer-Mike_Koenig-1562033255.wav',2.999501134,44100,132278,1,16,FB,0,0,0,0,1,
+242,'CrowdCheering_02_MONO.wav',Human,motor & vocal,SoundBible.com,'10 Second Applause-215222688.wav',3,44100,132300,1,16,FB,0,0,0,0,1,
+243,CrowdCheering_03_MONO.wav',Human,motor & vocal,FreeSound.org,'371602__jacksonmiller0__small-audience-applause-self-recorded.wav',2.881609977,44100,127079,1,16,FB,0,0,0,0,1,
+244,'CrowdCheering_04_MONO.wav',Human,motor & vocal,Adobe Systems Incorporated,'Human Crowd Cheer 04.wav',2.995464853,44100,132100,1,16,FB,0,0,0,0,1,
+245,'CrowdCheering_05_MONO.wav',Human,motor & vocal,FreeSound.org,'32260__sagetyrtle__smallcrowd.wav',3,44100,132300,1,16,FB,0,0,0,0,1,
+246,'CrowdCheering_06_MONO.wav',Human,motor & vocal,FreeSound.org,'194814__makosan__2012-olympics-stadium-cheer.wav',2.999501134,44100,132278,1,16,FB,0,0,0,0,1,
+247,'CrowdCheering_07_MONO.wav',Human,motor & vocal,FreeSound.org,'214989__amishrob__baseballhitandcrowdcheer.wav',3,44100,132300,1,16,FB,0,0,0,0,1,
+248,'CrowdCheering_08_MONO.wav',Human,motor & vocal,FreeSound.org,'400590__misjoc__small-crowd-cheering.wav',3,44100,132300,1,16,FB,0,0,0,0,1,
+249,'CrowdCheering_09_MONO.wav',Human,motor & vocal,FreeSound.org,'410868__djnicke__crowd-cheering-and-clapping.wav',3,44100,132300,1,16,FB,0,0,0,0,1,
+250,'CrowdCheering_10_MONO.wav',Human,motor & vocal,FreeSound.org,'72837__lonemonk__approx-800-cheer-and-clapping.wav',3,44100,132300,1,16,FB,0,0,0,0,1,
+251,'CryingAdultFemale_01_MONO.wav',Human,vocal nonspeech,SoundBible.com,'woman-crying-daniel_simon.wav',2.999002268,44100,132256,1,16,F,0,0,0,0,0,
+252,'CryingAdultFemale_02_MONO.wav',Human,vocal nonspeech,Adobe Systems Incorporated,'Human Female Cry Light Cry 02.wav',2.999614512,44100,132283,1,16,F,0,0,0,0,0,
+253,'CryingAdultFemale_03_MONO.wav',Human,vocal nonspeech,FreeSound.org,'99499__aurinko2222__plors.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+254,'CryingAdultFemale_04_MONO.wav',Human,vocal nonspeech,FreeSound.org,'113364__silversatyr__cry.wav',2.953605442,44100,130254,1,16,F,0,0,0,0,0,
+255,'CryingAdultFemale_05_MONO.wav',Human,vocal nonspeech,FreeSound.org,'127005__bulbastre__woman-crying-sobbing-cry-sob-sad.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+256,'CryingAdultFemale_06_MONO.wav',Human,vocal nonspeech,FreeSound.org,'272093__aderumoro__sobbing-young-lady.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+257,'CryingAdultFemale_07_MONO.wav',Human,vocal nonspeech,FreeSound.org,'319537__freyamaluk__woman-crying.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+258,'CryingAdultFemale_08_MONO.wav',Human,vocal nonspeech,FreeSound.org,'364481__samusasi__mujer-llorando-s.wav',2.95,44100,130095,1,16,F,0,0,0,0,0,
+259,CryingAdultFemale_09_MONO.wav',Human,vocal nonspeech,YouTube,'Woman Crying Sound Effect - from YouTube.wav',2.965147392,44100,130763,1,16,F,1,0,0,0,0,"Ambient noise, quiet"
+260,'CryingAdultFemale_10_MONO.wav',Human,vocal nonspeech,FreeSound.org,'449439__purplereptar__woman-crying.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+261,'CryingAdultMale_01_MONO.wav',Human,vocal nonspeech,SoundBible.com,'Sad_Male-Mike_Koenig-58602415.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+262,'CryingAdultMale_02_MONO.wav',Human,vocal nonspeech,FreeSound.org,'200428__qubodup__man-crying-and-whimmering.wav',2.991088435,44100,131907,1,16,F,0,0,0,0,0,
+263,'CryingAdultMale_03_MONO.wav',Human,vocal nonspeech,FreeSound.org,'263776__scottemoil__crying-man.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+264,CryingAdultMale_04_MONO.wav',Human,vocal nonspeech,Adobe Systems Incorporated,'Human Male Crying Whiney Sob 01.wav',2.664739229,44100,117515,1,16,F,0,0,0,0,0,
+265,CryingAdultMale_05_MONO.wav',Human,vocal nonspeech,Adobe Systems Incorporated,'Human Male Crying Whiney Sob Long 0.wav',2.761678005,44100,121790,1,16,F,0,0,0,0,0,
+266,'CryingAdultMale_06_MONO.wav',Human,vocal nonspeech,FreeSound.org,'481763__craigsmith__r21-33-man-sobs.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+267,CryingAdultMale_07_MONO.wav',Human,vocal nonspeech,Adobe Systems Incorporated,'Human Male Crying Whiney Sob Mumble 01.wav',2.57399093,44100,113513,1,16,F,0,0,0,0,0,
+268,'CryingAdultMale_08_MONO.wav',Human,vocal nonspeech,FreeSound.org,'254869__jacobmathiassen__male-crying-and-weeping.wav',2.865714286,44100,126378,1,16,F,0,0,0,0,0,
+269,'CryingAdultMale_09_MONO.wav',Human,vocal nonspeech,zapsplat.com,'human_crying_sobbing_male_35_years_old.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+270,CryingAdultMale_10_MONO.wav',Human,vocal nonspeech,FreeSound.org,'363149__klankbeeld__sobbing-middle-aged-man-mono-161019-1017.wav',2.921904762,44100,128856,1,16,F,0,0,0,0,0,
+271,'CryingChild_01_MONO.wav',Human,vocal nonspeech,SoundBible.com,'Baby Crying-1143552027.wav',2.999637188,44100,132284,1,16,F,0,0,0,0,0,
+272,'CryingChild_02_MONO.wav',Human,vocal nonspeech,SoundBible.com,'just_born_baby-daniel_simon.wav',2.536485261,44100,111859,1,16,F,0,0,0,0,0,
+273,'CryingChild_03_MONO.wav',Human,vocal nonspeech,FreeSound.org,'50665__boilingsand__toddler-cry-1-0803xx.wav',2.95,44100,130095,1,16,F,0,0,0,0,0,
+274,'CryingChild_04_MONO.wav',Human,vocal nonspeech,FreeSound.org,'50666__boilingsand__toddler-cry-2-0803xx.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+275,'CryingChild_05_MONO.wav',Human,vocal nonspeech,FreeSound.org,'113235__noisecollector__crybaby.wav',2.999274376,44100,132268,1,16,F,0,0,0,0,0,
+276,'CryingChild_06_MONO.wav',Human,vocal nonspeech,FreeSound.org,'151085__picklejones__01-baby-crying-hard.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+277,'CryingChild_07_MONO.wav',Human,vocal nonspeech,FreeSound.org,'240372__mariiao2__baby-cry.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+278,'CryingChild_08_MONO.wav',Human,vocal nonspeech,FreeSound.org,'371303__iamgiorgio__c1-baby-crying.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+279,'CryingChild_09_MONO.wav',Human,vocal nonspeech,FreeSound.org,'386924__gumballworld__baby-newborn-cry1.wav',2.351020408,44100,103680,1,16,F,0,0,0,0,0,
+280,'CryingChild_10_MONO.wav',Human,vocal nonspeech,FreeSound.org,'346663__adam-n__baby-cry.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+281,'Footsteps_01_MONO.wav',Human,motor,SoundBible.com,'Footsteps_on_Cement-Tim_Fryer-870410055.wav',3,44100,132300,1,16,F,1,0,1,0,0,"Ambient outdoor sound, very quiet"
+282,'Footsteps_02_MONO.wav',Human,motor,SoundBible.com,'Footsteps-534261997.wav',2.95861678,44100,130475,1,16,F,0,0,1,0,0,Ambient echo
+283,'Footsteps_03_MONO.wav',Human,motor,SoundBible.com,'hard_shoes_1-daniel_simon.wav',2.869478458,44100,126544,1,16,F,1,0,1,0,0,"Ambient outdoor sound, very quiet"
+284,'Footsteps_04_MONO.wav',Human,motor,SoundBible.com,'Walking On Gravel-2023303198.wav',3,44100,132300,1,16,F,0,0,1,0,0,Muffled sound due to mushy surface 
+285,'Footsteps_05_MONO.wav',Human,motor,FreeSound.org,'267933__anagar__steps-in-high-heels.wav',2.999977324,44100,132299,1,16,F,0,0,1,0,0,
+286,'Footsteps_06_MONO.wav',Human,motor,FreeSound.org,'422337__behansean__footsteps-3.wav',2.380204082,44100,104967,1,16,F,0,0,1,0,0,
+287,'Footsteps_07_MONO.wav',Human,motor,FreeSound.org,'54778__bevangoldswain__running-gravel-or-dry-leaves-loop.wav',2.844535147,44100,125444,1,16,F,0,0,1,0,0,Muffled sound due to mushy surface 
+288,'Footsteps_08_MONO.wav',Human,motor,FreeSound.org,'54779__bevangoldswain__running-hard-surface.wav',2.850929705,44100,125726,1,16,F,1,0,1,0,0,"Ambient outdoor sound, very quiet"
+289,'Footsteps_09_MONO.wav',Human,motor,FreeSound.org,'266654__eelke__steps-narrow-street.wav',2.932902494,44100,129341,1,16,F,0,0,1,0,0,
+290,'Footsteps_10_MONO.wav',Human,motor,FreeSound.org,'383072__pfranzen__running-back-on-solid-floor.wav',1.822131519,44100,80356,1,16,F,0,0,1,0,0,
+291,'LaughingAdultFemale_01_MONO.wav',Human,vocal nonspeech,Adobe Systems Incorporated,'Human Female Laughing 01.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+292,'LaughingAdultFemale_02_MONO.wav',Human,vocal nonspeech,Adobe Systems Incorporated,'Human Female Laugh Long 01.wav',2.999387755,44100,132273,1,16,F,0,0,0,0,0,
+293,LaughingAdultFemale_03_MONO.wav',Human,vocal nonspeech,zapsplat.com,'smartsound_HUMAN_VOCAL_Female_Laugh_05.wav',2.685396825,44100,118426,1,16,F,0,0,0,0,0,
+294,LaughingAdultFemale_04_MONO.wav',Human,vocal nonspeech,zapsplat.com,'smartsound_HUMAN_VOCAL_Female_Laugh_06.wav',1.660634921,44100,73234,1,16,F,0,0,0,0,0,
+295,'LaughingAdultFemale_05_MONO.wav',Human,vocal nonspeech,Adobe Systems Incorporated,'Human Female Giggling 01.wav',1.1569161,44100,51020,1,16,F,0,0,0,0,0,
+296,'LaughingAdultFemale_06_MONO.wav',Human,vocal nonspeech,FreeSound.org,'79770__engreitz__girllaugh.wav',3,44100,132300,1,16,F,0,0,0,0,0,Ambient echo
+297,'LaughingAdultFemale_07_MONO.wav',Human,vocal nonspeech,FreeSound.org,'118487__morningfrost__femalelaughing.wav',3,44100,132300,1,16,F,0,0,0,0,0,Ambient echo
+298,'LaughingAdultFemale_08_MONO.wav',Human,vocal nonspeech,FreeSound.org,'169802__missozzy__female-laugh-02.wav',1.094807256,44100,48281,1,16,F,0,0,0,0,0,
+299,'LaughingAdultFemale_09_MONO.wav',Human,vocal nonspeech,FreeSound.org,'235103__reitanna__laugh.wav',2.020136054,44100,89088,1,16,F,0,0,0,0,0,Very close
+300,'LaughingAdultFemale_10_MONO.wav',Human,vocal nonspeech,FreeSound.org,'323702__reitanna__great-giggle-laugh.wav',3,44100,132300,1,16,F,0,0,0,0,0,Very close
+301,'LaughingAdultMale_01_MONO.wav',Human,vocal nonspeech,SoundBible.com,'Goofy Laugh-180933118.wav',1.497142857,44100,66024,1,16,F,0,0,0,0,0,
+302,'LaughingAdultMale_02_MONO.wav',Human,vocal nonspeech,SoundBible.com,'Laughter-Mike_Koenig-360558723.wav',2.571111111,44100,113386,1,16,F,0,0,0,0,0,
+303,'LaughingAdultMale_03_MONO.wav',Human,vocal nonspeech,Adobe Systems Incorporated,'Human Laugh Evil Rich Jerk 15.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+304,'LaughingAdultMale_04_MONO.wav',Human,vocal nonspeech,Adobe Systems Incorporated,'Human Laugh Rich Jerk 13.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+305,'LaughingAdultMale_05_MONO.wav',Human,vocal nonspeech,Adobe Systems Incorporated,'Human Male Laugh 01.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+306,'LaughingAdultMale_06_MONO.wav',Human,vocal nonspeech,Adobe Systems Incorporated,'Human Male Laughing 01.wav',1.860272109,44100,82038,1,16,F,0,0,0,0,0,
+307,'LaughingAdultMale_07_MONO.wav',Human,vocal nonspeech,Adobe Systems Incorporated,'Human Male Laughing 02.wav',2.906281179,44100,128167,1,16,F,0,0,0,0,0,
+308,'LaughingAdultMale_08_MONO.wav',Human,vocal nonspeech,Adobe Systems Incorporated,'Human Male Laughing 03.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+309,'LaughingAdultMale_09_MONO.wav',Human,vocal nonspeech,Adobe Systems Incorporated,'Human Male Laugh Boy Laugh Voice 03.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+310,'LaughingAdultMale_10_MONO.wav',Human,vocal nonspeech,Adobe Systems Incorporated,'Human Male Laugh Boy Laugh Voice Long 03.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+311,'LaughingChild_01_MONO.wav',Human,vocal nonspeech,SoundBible.com,'Baby_Boy_Laugh-Mike_Koenig-1622212130.wav',2.978185941,44100,131338,1,16,F,0,0,0,0,0,
+312,'LaughingChild_02_MONO.wav',Human,vocal nonspeech,SoundBible.com,'Children_Laughing-Mike_Koenig-575083331.wav',2.246530612,44100,99072,1,16,F,0,0,0,0,0,
+313,'LaughingChild_03_MONO.wav',Human,vocal nonspeech,SoundBible.com,'Funny_Boy_Laugh-Mike_Koenig-1446565974.wav',1.788707483,44100,78882,1,16,F,0,0,0,0,0,
+314,'LaughingChild_04_MONO.wav',Human,vocal nonspeech,FreeSound.org,371302__iamgiorgio__c2-baby-laughing-04.wav',2.904648526,44100,128095,1,16,F,0,0,0,0,0,
+315,'LaughingChild_05_MONO.wav',Human,vocal nonspeech,SoundBible.com,'high_pitch_girl_laugh-Mike_Koenig-336832306.wav',1.828571429,44100,80640,1,16,F,0,0,0,0,0,
+316,'LaughingChild_06_MONO.wav',Human,vocal nonspeech,SoundBible.com,'Kid Giggle 2-847618472.wav',1.637006803,44100,72192,1,16,F,0,0,0,0,0,
+317,'LaughingChild_07_MONO.wav',Human,vocal nonspeech,SoundBible.com,'Kid_Laugh-Mike_Koenig-1673908713.wav',2.207732426,44100,97361,1,16,F,0,0,0,0,0,
+318,'LaughingChild_08_MONO.wav',Human,vocal nonspeech,SoundBible.com,'Kid Laughing Short-667826932.wav',1.222040816,44100,53892,1,16,F,0,0,0,0,0,
+319,'LaughingChild_09_MONO.wav',Human,vocal nonspeech,FreeSound.org,'110392__soundscalpel-com__human-baby-toddler-male-15-months-laugh.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+320,'LaughingChild_10_MONO.wav',Human,vocal nonspeech,FreeSound.org,'259528__bjbutler__child-laughing.wav',1.957573696,44100,86329,1,16,F,0,0,0,0,0,
+321,'LaughingGroup_01_MONO.wav',Human,vocal nonspeech,FreeSound.org,'15294__ch0cchi__small-group-laughter.wav',3,44100,132300,1,16,F,0,0,0,0,1,
+322,'LaughingGroup_02_MONO.wav',Human,vocal nonspeech,FreeSound.org,'30040__tim-kahn__small-group-laugh-3.wav',1.914807256,44100,84443,1,16,F,0,0,0,0,1,
+323,'LaughingGroup_03_MONO.wav',Human,vocal nonspeech,FreeSound.org,'30045__tim-kahn__small-group-laugh.wav',2.080566893,44100,91753,1,16,F,0,0,0,0,1,
+324,'LaughingGroup_04_MONO.wav',Human,vocal nonspeech,FreeSound.org,'94104__kukla__audience-laughter.wav',3,44100,132300,1,16,F,0,0,0,0,1,
+325,'LaughingGroup_05_MONO.wav',Human,vocal nonspeech,FreeSound.org,'124028__kyster__big-crowd-laughter.wav',2.29877551,44100,101376,1,16,F,1,0,0,0,1,"Ambient noise, quiet"
+326,'LaughingGroup_06_MONO.wav',Human,vocal nonspeech,FreeSound.org,'262983__alcappuccino__audience-laughing50.wav',3,44100,132300,1,16,F,0,0,0,0,1,
+327,'LaughingGroup_07_MONO.wav',Human,vocal nonspeech,FreeSound.org,'337718__schroedel__lachen-2.wav',3,44100,132300,1,16,F,0,0,0,0,1,
+328,'LaughingGroup_08_MONO.wav',Human,vocal nonspeech,FreeSound.org,'418831__pbrproductions__patrons-laughing.wav',2.994897959,44100,132075,1,16,F,0,0,0,0,1,
+329,'LaughingGroup_09_MONO.wav',Human,vocal nonspeech,FreeSound.org,'337001__tim-kahn__laughter-01.wav',3,44100,132300,1,16,F,0,0,0,0,1,
+330,'LaughingGroup_10_MONO.wav',Human,vocal nonspeech,FreeSound.org,'395407__littlerainyseasons__laugh-track-4.wav',2.115918367,44100,93312,1,16,F,0,0,0,0,1,
+331,'Sneezing_01_MONO.wav',Human,respiratory & vocal,SoundBible.com,'Baby Sneeze-431839106.wav',1.356802721,44100,59835,1,16,F,1,0,0,0,0,"Ambient noise, quiet"
+332,'Sneezing_02_MONO.wav',Human,respiratory & vocal,SoundBible.com,'Sneeze-95200613.wav',0.65015873,44100,28672,1,16,F,1,0,0,0,0,"Ambient noise, quiet"
+333,'Sneezing_03_MONO.wav',Human,respiratory & vocal,FreeSound.org,'54505__sagetyrtle__sneeze.wav',2.526371882,44100,111413,1,16,F,0,0,0,0,0,
+334,'Sneezing_04_MONO.wav',Human,respiratory & vocal,FreeSound.org,'194533__wjoojoo__stan-baby-sneezing.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+335,Sneezing_05_MONO.wav',Human,respiratory & vocal,zapsplat.com,'zapsplat_human_male_sneeze_004_17823.wav',0.888004535,44100,39161,1,16,F,0,0,0,0,0,
+336,'Sneezing_06_MONO.wav',Human,respiratory & vocal,FreeSound.org,'341038__vikuserro__sneezing.wav',2.670272109,44100,117759,1,16,F,0,0,0,0,0,
+337,'Sneezing_07_MONO.wav',Human,respiratory & vocal,FreeSound.org,'368801__inspectorj__sneeze-single-e.wav',1.293605442,44100,57048,1,16,F,0,0,0,0,0,
+338,'Sneezing_08_MONO.wav',Human,respiratory & vocal,FreeSound.org,'451736__starplatinums__sneeze.wav',1.102947846,44100,48640,1,16,F,0,0,0,0,0,
+339,'Sneezing_09_MONO.wav',Human,respiratory & vocal,FreeSound.org,'467954__jpbillingsleyjr__i-sneezed.wav',2.238707483,44100,98727,1,16,F,0,0,0,0,0,
+340,'Sneezing_10_MONO.wav',Human,respiratory & vocal,FreeSound.org,'469122__manim8__sneeze-male-speed-normal.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+341,'Snoring_01_MONO.wav',Human,respiratory,SoundBible.com,'Snoring-Popup_Pixels-869228912.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+342,'Snoring_02_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Female Snoring 01.wav',2.996870748,44100,132162,1,16,F,0,0,0,0,0,
+343,'Snoring_03_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Female Snoring 02.wav',2.128752834,44100,93878,1,16,F,0,0,0,0,0,
+344,'Snoring_04_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Male Snoring 01.wav',3,44100,132300,1,16,F,0,0,0,0,0,Very close
+345,'Snoring_05_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Male Snoring 02.wav',2.253356009,44100,99373,1,16,F,0,0,0,0,0,
+346,'Snoring_06_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Male Snoring 03.wav',3,44100,132300,1,16,F,0,0,0,0,0,Very close
+347,'Snoring_07_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Male Snoring 04.wav',2.960045351,44100,130538,1,16,F,0,0,0,0,0,
+348,'Snoring_08_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Male Snoring Purring Snoring 01.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+349,'Snoring_09_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Snoring Male 01.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+350,'Snoring_10_MONO.wav',Human,respiratory,Adobe Systems Incorporated,'Human Snoring Male 02.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+351,'ThroatClearing_01_MONO.wav',Human,respiratory & vocal,SoundBible.com,'Clearing Throat Male-37691700.wav',1.10877551,44100,48897,1,16,F,0,0,0,0,0,
+352,'ThroatClearing_02_MONO.wav',Human,respiratory & vocal,SoundBible.com,'Throat Clearing-328410293.wav',0.951451247,44100,41959,1,16,F,0,0,0,0,0,
+353,'ThroatClearing_03_MONO.wav',Human,respiratory & vocal,Adobe Systems Incorporated,'Human Male Clear Throat 01.wav',0.898662132,44100,39631,1,16,F,0,0,0,0,0,
+354,'ThroatClearing_04_MONO.wav',Human,respiratory & vocal,Adobe Systems Incorporated,'Human Male Clear Throat Caveman Grunt 01.wav',1.466507937,44100,64673,1,16,F,0,0,0,0,0,
+355,'ThroatClearing_05_MONO.wav',Human,respiratory & vocal,Adobe Systems Incorporated,'Human Male Clear Throat Grunt 01.wav',0.822222222,44100,36260,1,16,F,0,0,0,0,0,
+356,'ThroatClearing_06_MONO.wav',Human,respiratory & vocal,Adobe Systems Incorporated,'Human Male Clear Throat Trying To Get Someones Attention 01.wav',1.18861678,44100,52418,1,16,F,0,0,0,0,0,
+357,'ThroatClearing_07_MONO.wav',Human,respiratory & vocal,Adobe Systems Incorporated,'Human Male Clear Throat Vibrating 01.wav',1.220090703,44100,53806,1,16,F,0,0,0,0,0,
+358,'ThroatClearing_08_MONO.wav',Human,respiratory & vocal,Adobe Systems Incorporated,'Human Male Clearing Throat 01.wav',0.750294785,44100,33088,1,16,F,0,0,0,0,0,
+359,'ThroatClearing_09_MONO.wav',Human,respiratory & vocal,Adobe Systems Incorporated,'Human Male Clears Throat 01.wav',0.537913832,44100,23722,1,16,F,0,0,0,0,0,
+360,'ThroatClearing_10_MONO.wav',Human,respiratory & vocal,Adobe Systems Incorporated,'Human Male Clears Throat 02.wav',0.738662132,44100,32575,1,16,F,0,0,0,0,0,
+361,'DrillingPneumatic_01_MONO.wav',Manmade,tools,BBC Sound Effects,'07075064_pneumatic coal drill.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+362,DrillingPneumatic_02_MONO.wav',Manmade,tools,zapsplat.com,'industrial_tools_jackhammer_operating_003.wav',2.995736961,44100,132112,1,16,F,0,0,0,0,0,
+363,'DrillingPneumatic_03_MONO.wav',Manmade,tools,BBC Sound Effects,'07001003_Break drilling.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+364,DrillingPneumatic_04_MONO.wav',Manmade,tools,zapsplat.com,'industrial_tools_jackhammer_operating_002.wav',3,44100,132300,1,16,F,0,0,0,1,0,
+365,'DrillingPneumatic_05_MONO.wav',Manmade,tools,FreeSound.org,"'07043170_Quarrying, road drill with compressor..wav'",3,44100,132300,1,16,F,1,0,0,0,0,Another motor in the distance
+366,'DrillingPneumatic_06_MONO.wav',Manmade,tools,FreeSound.org,'77751__xserra__jackhammer.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+367,'DrillingPneumatic_07_MONO.wav',Manmade,tools,FreeSound.org,'105029__benboncan__jackhammer-short.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+368,'DrillingPneumatic_08_MONO.wav',Manmade,tools,FreeSound.org,'188823__unfa__pneumatic-hammer-vs-concrete-floor-direct-louder.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+369,'DrillingPneumatic_09_MONO.wav',Manmade,tools,FreeSound.org,'317361__mrauralization__jackhammer.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+370,'DrillingPneumatic_10_MONO.wav',Manmade,tools,FreeSound.org,'323143__michael-db__jackhammer.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+371,'Drilling_01_MONO.wav',Manmade,tools,BBC Sound Effects,'07045148_electric drill n wood.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+372,'Drilling_02_MONO.wav',Manmade,tools,BBC Sound Effects,'07045149_electric drill on metal.wav',2.999727891,44100,132288,1,16,F,0,0,0,0,0,
+373,'Drilling_03_MONO.wav',Manmade,tools,BBC Sound Effects,"'07037266_Service Station, air drill operating.wav'",2.999977324,44100,132299,1,16,F,0,0,0,0,0,
+374,'Drilling_04_MONO.wav',Manmade,tools,BBC Sound Effects,"'07042272_Electric Drill, single hole drilled..wav'",2.999954649,44100,132298,1,16,F,0,0,0,0,0,
+375,'Drilling_05_MONO.wav',Manmade,tools,BBC Sound Effects,'07045150_electric drill on emtal.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+376,'Drilling_06_MONO.wav',Manmade,tools,FreeSound.org,'71086__aharri6__multiple-drill.wav',2.631179138,44100,116035,1,16,F,0,0,0,0,0,
+377,'Drilling_07_MONO.wav',Manmade,tools,FreeSound.org,'179725__wjoojoo__impact-drill.wav',2.993696145,44100,132022,1,16,F,0,0,0,0,0,
+378,'Drilling_08_MONO.wav',Manmade,tools,FreeSound.org,'244242__chewiesmissus__drilling-a-screw-into-wood.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+379,Drilling_09_MONO.wav',Manmade,tools,zapsplat.com,'zapsplat_industrial_drill_cordless_drilling_screw_into_wooden_sleeper_003_14330.wav',2.992721088,44100,131979,1,16,F,0,0,0,0,0,
+380,'Drilling_10_MONO.wav',Manmade,tools,FreeSound.org,'377525__13fpanska-machacova-petra__driller.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+381,'Hammer_01_MONO.wav',Manmade,tools,FreeSound.org,'154465__lucaslara__hammering-on-wood-1-2.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+382,'Hammer_02_MONO.wav',Manmade,tools,FreeSound.org,'180243__silverpadfoot__farrier-hammering-horseshoe.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+383,'Hammer_03_MONO.wav',Manmade,tools,FreeSound.org,'207782__dvideoguy__hammering.wav',2.996462585,44100,132144,1,16,F,0,0,0,0,0,
+384,'Hammer_04_MONO.wav',Manmade,tools,FreeSound.org,'328762__aerror__hammering.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+385,'Hammer_05_MONO.wav',Manmade,tools,FreeSound.org,'365762__biancabothapure__hammer-hitting-a-nail.wav',2.990181406,44100,131867,1,16,F,0,0,0,0,0,
+386,'Hammer_06_MONO.wav',Manmade,tools,FreeSound.org,'406048__inspectorj__hammering-nails-close-a.wav',2.909206349,44100,128296,1,16,F,0,0,0,0,0,
+387,'Hammer_07_MONO.wav',Manmade,tools,FreeSound.org,'419927__14fpanskasilovsky-petr__hammering-nails.wav',2.980929705,44100,131459,1,16,F,0,0,0,0,0,
+388,'Hammer_08_MONO.wav',Manmade,tools,FreeSound.org,'434339__draftcraft__hammer-hitting-an-anvil.wav',2.999455782,44100,132276,1,16,F,0,0,0,0,0,
+389,'Hammer_09_MONO.wav',Manmade,tools,FreeSound.org,'445520__180007__hammer.wav',2.992199546,44100,131956,1,16,F,0,0,0,0,0,
+390,'Hammer_10_MONO.wav',Manmade,tools,FreeSound.org,'450874__kyles__tap-hammer-small-piece-of-metal-gentle-hits.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+391,'SawingManual_01_MONO.wav',Manmade,tools,BBC Sound Effects,"'07042274_Hand Saw, sawing a piece of plywood..wav'",2.999138322,44100,132262,1,16,F,0,0,0,0,0,
+392,'SawingManual_02_MONO.wav',Manmade,tools,BBC Sound Effects,'07066111_Tenon saw.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+393,'SawingManual_03_MONO.wav',Manmade,tools,BBC Sound Effects,'07066111_Tenon saw.wav',2.999886621,44100,132295,1,16,F,0,0,0,0,0,
+394,'SawingManual_04_MONO.wav',Manmade,tools,FreeSound.org,'7974__dobroide__handsaw.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+395,'SawingManual_05_MONO.wav',Manmade,tools,FreeSound.org,'59321__vibe-crc__saw-lumber.wav',2.718072562,44100,119867,1,16,F,0,0,0,0,0,
+396,'SawingManual_06_MONO.wav',Manmade,tools,FreeSound.org,'198360__paulw2k__hand-sawing.wav',3.000226757,44100,132310,1,16,F,0,0,0,0,0,
+397,'SawingManual_07_MONO.wav',Manmade,tools,FreeSound.org,'204947__capslok__metal-saw-hand.wav',2.847755102,44100,125586,1,16,F,0,0,0,0,0,
+398,'SawingManual_08_MONO.wav',Manmade,tools,FreeSound.org,'319640__vehicle__handsaw-sawing-wood-01.wav',2.984172336,44100,131602,1,16,F,0,0,0,0,0,
+399,'SawingManual_09_MONO.wav',Manmade,tools,FreeSound.org,'333288__larryblag__handsawing-wood.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+400,'SawingManual_10_MONO.wav',Manmade,tools,FreeSound.org,'445526__180007__saw.wav',2.519365079,44100,111104,1,16,F,0,0,0,0,0,
+401,'Sawing_01_MONO.wav',Manmade,tools,BBC Sound Effects,"'07002324_A tractor starts up, driving a circular saw, sawing ends, tractor switched off.wav'",2.766235828,44100,121991,1,16,F,0,0,0,0,0,
+402,'Sawing_02_MONO.wav',Manmade,tools,BBC Sound Effects,'07066094_Portable 5 inch cutting against grain.wav',2.999115646,44100,132261,1,16,F,0,0,0,0,0,
+403,'Sawing_03_MONO.wav',Manmade,tools,BBC Sound Effects,'07066094_Portable 5 inch cutting against grain.wav',2.999931973,44100,132297,1,16,F,0,0,0,0,0,
+404,'Sawing_04_MONO.wav',Manmade,tools,BBC Sound Effects,'07066095_14 inch saw in timber yard.wav',2.998956916,44100,132254,1,16,F,0,0,0,0,0,
+405,Sawing_05_MONO.wav',Manmade,tools,FreeSound.org,'250054__kwahmah-02__circular-saw-3.wav',2.996394558,44100,132141,1,16,F,0,0,0,0,0,
+406,'Sawing_06_MONO.wav',Manmade,tools,BBC Sound Effects,'07070130_Sawing with circular saw..wav',3,44100,132300,1,16,F,0,0,0,1,0,
+407,Sawing_07_MONO.wav',Manmade,tools,FreeSound.org,'390710__megashroom__circular-saw-04-170501-1492.wav',2.987188209,44100,131735,1,16,F,0,0,0,0,0,
+408,'Sawing_08_MONO.wav',Manmade,tools,FreeSound.org,'277458__villevi__log-cutting.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+409,'Sawing_09_MONO.wav',Manmade,tools,FreeSound.org,'345994__ivolipa__chainsaw-2.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+410,'Sawing_10_MONO.wav',Manmade,tools,FreeSound.org,'345995__ivolipa__chainsaw-1.wav',2.998956916,44100,132254,1,16,F,0,0,0,0,0,
+411,'CarHorn_01_MONO.wav',Manmade,transport,BBC Sound Effects,'07023071_Mini 1000cc 1972 horn',2.763854875,44100,121886,1,16,F,0,0,0,0,0,
+412,'CarHorn_02_MONO.wav',Manmade,transport,BBC Sound Effects,'07050087_Land River Safari Diesel 1967car horn',2.862721088,44100,126246,1,16,F,1,0,0,0,0,Some air hitting the microphone?
+413,'CarHorn_03_MONO.wav',Manmade,transport,BBC Sound Effects,'07055187_Peugeot 208 car horn',1.428412698,44100,62993,1,16,F,0,0,0,0,0,
+414,'CarHorn_04_MONO.wav',Manmade,transport,BBC Sound Effects,'07055191_Peugeot 211 car horn',1.03968254,44100,45850,1,16,F,0,0,0,0,0,
+415,'CarHorn_05_MONO.wav',Manmade,transport,BBC Sound Effects,'07063159_Renault 5 car horn.wav',2.858752834,44100,126071,1,16,F,1,0,0,0,0,Ambient outdoor sound
+416,'CarHorn_06_MONO.wav',Manmade,transport,BBC Sound Effects,'07063139_BMW 320i convertible car horn',2.778276644,44100,122522,1,16,F,1,0,0,0,0,Ambient outdoor sound
+417,'CarHorn_07_MONO.wav',Manmade,transport,FreeSound.org,'419695__14fvaltrovat__long-horn.wav',0.710045351,44100,31313,1,16,F,0,0,0,0,0,
+418,'CarHorn_08_MONO.wav',Manmade,transport,OrangeFreeSounds.com,'Car-horn-honk-on-the-street-sound-effect.wav',3,44100,132300,1,16,F,1,0,0,0,0,Traffic hum
+419,'CarHorn_09_MONO.wav',Manmade,transport,OrangeFreeSounds.com,'Car-horn-sound.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+420,'CarHorn_10_MONO.wav',Manmade,transport,OrangeFreeSounds.com,'Horn-sound.wav',2.533877551,44100,111744,1,16,F,0,0,0,0,0,
+421,'CarSkidding_01_MONO.wav',Manmade,transport,BBC Sound Effects,'07011306_Citroen 1953 skid stop',2.766281179,44100,121993,1,16,F,1,0,1,2,0,
+422,'CarSkidding_02_MONO.wav',Manmade,transport,BBC Sound Effects,'07023048_Ford Cortina 1500cc 1969 skidding',2.934897959,44100,129429,1,16,F,1,0,1,2,0,Ambient outdoor sound
+423,'CarSkidding_03_MONO.wav',Manmade,transport,BBC Sound Effects,'07023048_Ford Cortina 1500cc 1969 skidding',2.934897959,44100,129429,1,16,F,1,0,1,2,0,Ambient outdoor sound
+424,'CarSkidding_04_MONO.wav',Manmade,transport,BBC Sound Effects,'07023128_Ford Fiesta 1300cc 1980 skidding',3,44100,132300,1,16,F,1,0,1,2,0,Ambient outdoor sound
+425,'CarSkidding_05_MONO.wav',Manmade,transport,BBC Sound Effects,'07023155_Ford Cortina skidding',2.991836735,44100,131940,1,16,F,1,0,1,2,0,Ambient outdoor sound
+426,CarSkidding_06_MONO.wav',Manmade,transport,FreeSound.org,'217542__medartimus__car-breaking-skid-01.wav',2.705124717,44100,119296,1,16,F,0,0,1,2,0,
+427,CarSkidding_07_MONO.wav',Manmade,transport,FreeSound.org,'369783__aquafox-0101__derrape-de-automovil-car-skid.wav',2.426643991,44100,107015,1,16,F,0,0,1,2,0,
+428,'CarSkidding_08_MONO.wav',Manmade,transport,BBC Sound Effects,'07065125_skid',2.972222222,44100,131075,1,16,F,1,0,1,2,0,Ambient outdoor sound
+429,'CarSkidding_09_MONO.wav',Manmade,transport,BBC Sound Effects,'07065126_skid.wav',2.865804989,44100,126382,1,16,F,0,0,1,2,0,
+430,'CarSkidding_10_MONO.wav',Manmade,transport,BBC Sound Effects,'07065127_car approach and skid 1971',2.983877551,44100,131589,1,16,F,0,0,1,2,0,
+431,'CarStarting_01_MONO.wav',Manmade,transport,BBC Sound Effects,'07055236_Peugeot 209 starts',2.821791383,44100,124441,1,16,F,0,0,0,0,0,
+432,'CarStarting_02_MONO.wav',Manmade,transport,BBC Sound Effects,"'07002324_A tractor starts up, driving a circular saw, sawing ends, tractor switched off.wav'",2.766235828,44100,121991,1,16,F,0,0,0,0,0,
+433,'CarStarting_03_MONO.wav',Manmade,transport,YouTube,"'car05.wav, 2009 Mercedes Benz McLaren SLR, 5.4L V8'",3,44100,132300,1,16,F,0,0,0,0,0,
+434,'CarStarting_04_MONO.wav',Manmade,transport,YouTube,"'car14.wav, 1967 Ford GT40 Mark III, 4.7L V8'",3,44100,132300,1,16,F,0,0,0,0,0,
+435,'CarStarting_05_MONO.wav',Manmade,transport,YouTube,"'car22.wav, 2005 Carrera GT, 5.7L V10'",3,44100,132300,1,16,F,0,0,0,0,0,
+436,'CarStarting_06_MONO.wav',Manmade,transport,YouTube,"'car23.wav, 2005 Ford GT, 5.4L V8'",3,44100,132300,1,16,F,0,0,0,0,0,
+437,'CarStarting_07_MONO.wav',Manmade,transport,YouTube,"'car27.wav, 1964 Porsche 901, 2.0L I4'",3,44100,132300,1,16,F,0,0,0,0,0,
+438,'CarStarting_08_MONO.wav',Manmade,transport,YouTube,"'car29.wav, 2014 Vorsteiner Lamborghini Aventador-V LP-740, 6.5L V12'",2.508707483,44100,110634,1,16,F,0,0,0,0,0,
+439,'CarStarting_09_MONO.wav',Manmade,transport,YouTube,"'car31.wav, 2010 Aston Martin DBS Carbon Black Edition, 6.0L V12'",2.387800454,44100,105302,1,16,F,0,0,0,0,0,
+440,'CarStarting_10_MONO.wav',Manmade,transport,YouTube,"'car32.wav, 1990 Ferrari F40, 2.9L V8'",2.720294785,44100,119965,1,16,F,0,0,0,0,0,
+441,'Helicopter_01_MONO.wav',Manmade,transport,BBC Sound Effects,'07025033_Sea King helicopter.wav',2.997732426,44100,132200,1,16,F,0,0,1,0,0,
+442,Helicopter_02_MONO.wav',Manmade,transport,YouTube,'Awesome Helicopter Sounds At Moorabbin Airport Australia.....Play LOUD !!!! - from YouTube.wav',2.993492063,44100,132013,1,16,F,0,0,1,0,0,
+443,'Helicopter_03_MONO.wav',Manmade,transport,BBC Sound Effects,'07025086_SIkorski 61N helicopter approaching.wav',3,44100,132300,1,16,F,0,0,1,0,0,
+444,'Helicopter_04_MONO.wav',Manmade,transport,BBC Sound Effects,'07043038_Hughes 500E helicpter landing.wav',3,44100,132300,1,16,F,0,0,1,1,0,
+445,Helicopter_05_MONO.wav',Manmade,transport,YouTube,'aaj_0438_MltryHlcptr1.wav',2.997619048,44100,132195,1,16,F,0,0,1,0,0,
+446,'Helicopter_06_MONO.wav',Manmade,transport,OrangeFreeSounds.com,'Helicopter-idles-on-ground.wav',3,44100,132300,1,16,F,0,0,1,0,0,
+447,'Helicopter_07_MONO.wav',Manmade,transport,OrangeFreeSounds.com,'Police-helicopter-flying-over-the-street.wav',3,44100,132300,1,16,F,0,0,1,1,0,
+448,'Helicopter_08_MONO.wav',Manmade,transport,zapsplat.com,'transportation_aircraft_helicopter_idle_ground_001.wav',3,44100,132300,1,16,F,0,0,1,0,0,
+449,'Helicopter_09_MONO.wav',Manmade,transport,zapsplat.com,'transportation_aircraft_helicopter_idle_ground_002.wav',3,44100,132300,1,16,F,0,0,1,0,0,
+450,Helicopter_10_MONO.wav',Manmade,transport,YouTube,'25th Huey Helicopter (no music) - from YouTube.wav',2.966303855,44100,130814,1,16,F,0,0,1,0,0,
+451,'JetPassing_01_MONO.wav',Manmade,transport,BBC Sound Effects,'07066144_single engine jet fighter passing.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+452,'JetPassing_02_MONO.wav',Manmade,transport,BBC Sound Effects,'07069012_747 jet aircraft - Pass overhead (use at low level)..wav',3,44100,132300,1,16,F,0,0,1,2,0,
+453,'JetPassing_03_MONO.wav',Manmade,transport,BBC Sound Effects,'07058067_jet passing.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+454,'JetPassing_04_MONO.wav',Manmade,transport,FreeSound.org,'162247__surrey-film__red-arrows-hawk-low-pass.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+455,'JetPassing_05_MONO.wav',Manmade,transport,FreeSound.org,'251958__cliftonmcarlson__jet-plane-2.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+456,'JetPassing_06_MONO.wav',Manmade,transport,FreeSound.org,'275042__cell31-sound-productions__jet-plane-fly-over-night-ext.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+457,'JetPassing_07_MONO.wav',Manmade,transport,FreeSound.org,'349712__lonemonk__canadian-cf-18-highspeed-pass.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+458,JetPassing_08_MONO.wav',Manmade,transport,zapsplat.com,'transportation_aircraft_commercial_jet_pass_low_external_008.wav',2.963605442,44100,130695,1,16,F,0,0,1,2,0,
+459,'JetPassing_09_MONO.wav',Manmade,transport,FreeSound.org,'465492__courter__southwest-airlines-flight-2418.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+460,'JetPassing_10_MONO.wav',Manmade,transport,SoundBible.com,'airplane-takeoff_daniel_simion.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+461,'Propeller_01_MONO.wav',Manmade,transport,BBC Sound Effects,'07000165_Barracuda landing taxi.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+462,'Propeller_02_MONO.wav',Manmade,transport,BBC Sound Effects,'07041206_Messerchmitt 100 circling in dive.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+463,Propeller_03_MONO.wav',Manmade,transport,YouTube,'Cessna 172 Single Prop Airplane Sound - from YouTube.wav',2.993582766,44100,132017,1,16,F,0,0,1,2,0,
+464,Propeller_04_MONO.wav',Manmade,transport,YouTube,'Prop sounding PERFECTION!!!.wav',2.995056689,44100,132082,1,16,F,0,0,1,2,0,
+465,'Propeller_05_MONO.wav',Manmade,transport,FreeSound.org,'403316__straget__a-small-propeller-plane.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+466,'Propeller_06_MONO.wav',Manmade,transport,BBC Sound Effects,'07051124_Cessna C159 starting.wav',2.999433107,44100,132275,1,16,F,0,0,1,2,0,
+467,'Propeller_07_MONO.wav',Manmade,transport,FreeSound.org,'392486__gpag1__plane-flying-overhead.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+468,'Propeller_08_MONO.wav',Manmade,transport,FreeSound.org,'12812__jilliancallahan__generic-prop-idle.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+469,'Propeller_09_MONO.wav',Manmade,transport,FreeSound.org,'361434__jay-rope__small-propeller-plane.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+470,'Propeller_10_MONO.wav',Manmade,transport,FreeSound.org,'276492__blahoslav__propeller-plane.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+471,'TrainBreaks_01_MONO.wav',Manmade,transport,FreeSound.org,'333521__thesuprememuffinpooter__train.wav',3,44100,132300,1,16,F,1,0,1,2,0,Ambient outdoor sound
+472,TrainBreaks_02_MONO.wav',Manmade,transport,YouTube,'__Very Loud Pacer Wheel Flange Squeal at Lincoln provided by 142051___ybmate.wav',2.929229025,44100,129179,1,16,F,1,0,1,2,0,Ambient outdoor sound
+473,'TrainBreaks_03_MONO.wav',Manmade,transport,zapsplat.com,'ftus_USA+Train+Stop+at+Station+with+Break+Squeaks.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+474,TrainBreaks_04_MONO.wav',Manmade,transport,YouTube,'Wheel Squeal @ Heathfield (online-audio-converter.com).wav',2.401655329,44100,105913,1,16,F,1,0,1,2,0,Ambient outdoor sound
+475,'TrainBreaks_05_MONO.wav',Manmade,transport,YouTube,'Metropolitan Line S Stock screeching in to Moorgate tube Station - from YouTube.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+476,TrainBreaks_06_MONO.wav',Manmade,transport,YouTube,'MBTA Boylston Station Wheel Squeal_ybmate.com.wav',2.977891156,44100,131325,1,16,F,1,0,1,2,0,Ambient outdoor sound
+477,'TrainBreaks_07_MONO.wav',Manmade,transport,YouTube,'London Underground Bakerloo Line squealing rails.mov - from YouTube.wav',3,44100,132300,1,16,F,1,0,1,2,0,Ambient outdoor sound
+478,TrainBreaks_08_MONO.wav',Manmade,transport,YouTube,"'Train squeal memories from Deshler, OH (online-audio-converter.com).wav'",2.904716553,44100,128098,1,16,F,1,0,1,2,0,Ambient outdoor sound
+479,TrainBreaks_09_MONO.wav',Manmade,transport,YouTube,'Train Squealing (online-audio-converter.com).wav',2.922403628,44100,128878,1,16,F,0,0,1,2,0,
+480,'TrainBreaks_10_MONO.wav',Manmade,transport,zapsplat.com,'cc0_train_freight_emergency_stop.wav',2.999773243,44100,132290,1,16,F,1,0,1,2,0,Ambient outdoor sound
+481,'TrainSignal_01_MONO.wav',Manmade,transport,BBC Sound Effects,'07024023_TUbe Bakerloo 1938 train hooter.wav',2.999977324,44100,132299,1,16,F,1,0,0,0,0,Ambient outdoor sound
+482,'TrainSignal_02_MONO.wav',Manmade,transport,BBC Sound Effects,'07071132_train signal 3 times stationary.wav',2.386575964,44100,105248,1,16,F,1,0,0,0,0,Ambient outdoor sound
+483,'TrainSignal_03_MONO.wav',Manmade,transport,BBC Sound Effects,'07071131_trains iren 3 times stationary.wav',2.559138322,44100,112858,1,16,F,0,0,0,0,0,
+484,'TrainSignal_04_MONO.wav',Manmade,transport,SoundBible.com,'steam-train-whistle-daniel_simon.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+485,'TrainSignal_05_MONO.wav',Manmade,transport,FreeSound.org,'71778__bidone__steam-whistle.wav',2.999614512,44100,132283,1,16,F,1,0,0,0,0,Ambient outdoor sound
+486,'TrainSignal_06_MONO.wav',Manmade,transport,FreeSound.org,'278885__theshaggyfreak__train-whistle.wav',2.362403628,44100,104182,1,16,F,0,0,0,0,0,
+487,'TrainSignal_07_MONO.wav',Manmade,transport,OrangeFreeSounds.com,'Distant-train-horn-sound.wav',3,44100,132300,1,16,F,1,0,0,0,0,Ambient outdoor sound
+488,'TrainSignal_08_MONO.wav',Manmade,transport,OrangeFreeSounds.com,'Electric-train-short-horn.wav',1.306122449,44100,57600,1,16,F,0,0,0,0,0,
+489,'TrainSignal_09_MONO.wav',Manmade,transport,OrangeFreeSounds.com,'Train-horn-honking.wav',1.384489796,44100,61056,1,16,F,0,0,0,0,0,
+490,'TrainSignal_10_MONO.wav',Manmade,transport,OrangeFreeSounds.com,'Small-train-horn.wav',1.253877551,44100,55296,1,16,F,1,0,0,0,0,Ambient outdoor sound
+491,'TrainWagons_01_MONO.wav',Manmade,transport,BBC Sound Effects,'07041086_Victoria station train leaving the station.wav',2.99984127,44100,132293,1,16,F,1,0,1,2,0,Ambient outdoor sound
+492,TrainWagons_02_MONO.wav',Manmade,transport,YouTube,"'BNSF 6597 leads a monster 16,000 ft stack train with 10 engines west through Ancona, IL 07_23_17.wav'",2.95154195,44100,130163,1,16,F,1,0,1,2,0,Ambient outdoor sound
+493,'TrainWagons_03_MONO.wav',Manmade,transport,SoundBible.com,'steam-train-daniel_simon.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+494,'TrainWagons_04_MONO.wav',Manmade,transport,FreeSound.org,'18998__lg__train06.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+495,'TrainWagons_05_MONO.wav',Manmade,transport,OrangeFreeSounds.com,'High-speed-train-pass-by.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+496,'TrainWagons_06_MONO.wav',Manmade,transport,zapsplat.com,"'lilesound_1_Train,+city,+Paris.wav'",3,44100,132300,1,16,F,0,0,1,2,0,
+497,'TrainWagons_07_MONO.wav',Manmade,transport,zapsplat.com,"'lilesound_2_Train,+city,+Paris.wav'",3,44100,132300,1,16,F,0,0,1,2,0,
+498,'TrainWagons_08_MONO.wav',Manmade,transport,YouTube,'India''s Longest Train _ 84 Wagons and 4 KJM WDG3As - from YouTube.wav',3,44100,132300,1,16,F,0,0,1,2,0,
+499,TrainWagons_09_MONO.wav',Manmade,transport,YouTube,'BNSF Military (Abrams Tanks) Train over Tehachapi - from YouTube.wav',2.939659864,44100,129639,1,16,F,1,0,1,2,0,Ambient outdoor sound
+500,'TrainWagons_10_MONO.wav',Manmade,transport,YouTube,'Loud Trains! - from YouTube.wav',3,44100,132300,1,16,F,1,0,1,2,0,Ambient outdoor sound
+501,'Rain_01_MONO.wav',Nature,weather,SoundBible.com,'Gewitter__Thunderstorm-Tim-1509815136.wav',2.999614512,44100,132283,1,16,F,0,0,0,0,0,
+502,'Rain_02_MONO.wav',Nature,weather,SoundBible.com,'Rain_Background-Mike_Koenig-1681389445.wav',2.999659864,44100,132285,1,16,B,0,0,0,0,0,
+503,'Rain_03_MONO.wav',Nature,weather,SoundBible.com,'Rain-Pwlae-390675481.wav',3,44100,132300,1,16,B,1,0,0,0,0,Ambient outdoor sound
+504,'Rain_04_MONO.wav',Nature,weather,SoundBible.com,'Rain-SoundBible.com-176235038.wav',3,44100,132300,1,16,B,1,0,0,0,0,Ambient outdoor sound
+505,'Rain_05_MONO.wav',Nature,weather,FreeSound.org,'22861__maverickkk__rain.wav',3,44100,132300,1,16,B,0,0,0,0,0,
+506,'Rain_06_MONO.wav',Nature,weather,FreeSound.org,'84671__tomc1985__inside-rain-heavy-3.wav',3,44100,132300,1,16,B,0,0,0,0,0,
+507,'Rain_07_MONO.wav',Nature,weather,FreeSound.org,'186808__nickgoa__rain-1.wav',3,44100,132300,1,16,B,0,0,0,0,0,
+508,'Rain_08_MONO.wav',Nature,weather,FreeSound.org,'333441__noisesounds__regen.wav',3,44100,132300,1,16,B,0,0,0,0,0,
+509,'Rain_09_MONO.wav',Nature,weather,FreeSound.org,'391694__jpolito__jp-rainloop04.wav',3,44100,132300,1,16,B,0,0,0,0,0,
+510,'Rain_10_MONO.wav',Nature,weather,FreeSound.org,'445803__heasun0810__heavy-rain.wav',3,44100,132300,1,16,B,1,0,0,0,0,Ambient outdoor sound
+511,'Thunder_01_MONO.wav',Nature,weather,SoundBible.com,'2_Minute_Thunderstorm-Mike_Koenig-574654058.wav',2.989659864,44100,131844,1,16,F,1,0,0,0,0,Ambient outdoor sound
+512,'Thunder_02_MONO.wav',Nature,weather,SoundBible.com,'Gewitter__Thunderstorm-Tim-1509815136.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+513,'Thunder_03_MONO.wav',Nature,weather,SoundBible.com,'More_Thunder-Mike_Koenig-889679068.wav',3,44100,132300,1,16,F,1,0,0,0,0,Rain
+514,'Thunder_04_MONO.wav',Nature,weather,SoundBible.com,'Thunder Storm 2-SoundBible.com-1990153083.wav',3,44100,132300,1,16,F,1,0,0,0,0,Rain
+515,Thunder_05_MONO.wav',Nature,weather,YouTube,'Lightning Storm Sound Effect - from YouTube.wav',2.960634921,44100,132300,1,16,F,0,0,0,0,0,
+516,'Thunder_06_MONO.wav',Nature,weather,SoundBible.com,'thunder_strike_2-Mike_Koenig-2099467696.wav',3,44100,132300,1,16,F,1,0,0,0,0,Rain
+517,'Thunder_07_MONO.wav',Nature,weather,SoundBible.com,'thunder_strike_3-Mike_Koenig-853886140.wav',3,44100,132300,1,16,F,1,0,0,0,0,Rain
+518,'Thunder_08_MONO.wav',Nature,weather,SoundBible.com,'Thunder-Mike_Koenig-315681025.wav',2.999455782,44100,130564,1,16,F,1,0,0,0,0,Rain
+519,'Thunder_09_MONO.wav',Nature,weather,FreeSound.org,'159769__timgormly__thunder-os-1.wav',3,44100,132300,1,16,F,0,0,0,1,0,
+520,'Thunder_10_MONO.wav',Nature,weather,FreeSound.org,'345920__dragisharambo21__thunder.wav',3,44100,132300,1,16,F,0,0,0,0,0,
+521,'Wind_01_MONO.wav',Nature,weather,SoundBible.com,'Wind-Mark_DiAngelo-1940285615.wav',3,44100,132300,1,16,B,0,0,0,1,0,
+522,'Wind_02_MONO.wav',Nature,weather,FreeSound.org,'144083__bosk1__wind-houling-1.wav',3,44100,132300,1,16,B,0,0,0,1,0,
+523,Wind_03_MONO.wav',Nature,weather,FreeSound.org,'29531__eliasheuninck__wind2.wav',3,44100,132300,1,16,B,0,0,0,1,0,
+524,'Wind_04_MONO.wav',Nature,weather,FreeSound.org,'180025__kangaroovindaloo__esperance-wind-farm-ii.wav',3,44100,132300,1,16,B,0,0,0,1,0,
+525,'Wind_05_MONO.wav',Nature,weather,FreeSound.org,'205966__kangaroovindaloo__medium-wind.wav',3,44100,132300,1,16,B,0,0,0,1,0,
+526,'Wind_06_MONO.wav',Nature,weather,FreeSound.org,'320693__klankbeeld__wind-indoors-001-150823-0735.wav',3,44100,132300,1,16,B,0,0,0,1,0,
+527,'Wind_07_MONO.wav',Nature,weather,FreeSound.org,'407025__ericssoundschmiede__wind-arctic-storm-breeze-019.wav',2.997414966,44100,132186,1,16,B,0,0,0,1,0,
+528,Wind_08_MONO.wav',Nature,weather,FreeSound.org,'84111__benboncan__wind-on-door-short.wav',3,44100,132300,1,16,B,0,0,0,1,0,
+529,'Wind_09_MONO.wav',Nature,weather,FreeSound.org,'438885__craigsmith__g56-30-wind-storm.wav',3,44100,132300,1,16,B,0,0,0,1,0,
+530,Wind_10_MONO.wav',Nature,weather,FreeSound.org,'407010__ericssoundschmiede__wind-arctic-storm-breeze-004.wav',3,44100,132300,1,16,B,0,0,0,1,0,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
