@@ -30,7 +30,9 @@ ZapSplat grants a worldwide, perpetual, non-exclusive license to use their sound
 The audio files downloaded from SoundBible are royalty free, but whether they can be used for commercial purposes depends on whether a given recording was shared under a Creative Commons Attribution or Public Domain licence, and needs to be specified per each file. More information can be found on the [SoundBible about page](https://soundbible.com/about.php).
 
 ### Adobe
-TBC
+The sound effects downloaded from the Adobe Creative Cloud are licensed under the Adobe End User License Agreements (EULAs). Full licence terms can be read [here](https://www.adobe.com/legal/licenses-terms.html).
+
+Under these agreements you are free to use and embed these sounds in your projects, but you cannot package and sell/distribute the raw sound files themselves as a standalone product, nor claim ownership over them.
 
 ### Orange
 The audio files downloaded from Orange Free Sounds are shared under a [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) licence. This license permits use and adaptation for non-commercial purposes, provided appropriate credit is given and a link to the licence is included.
@@ -38,12 +40,5 @@ The audio files downloaded from Orange Free Sounds are shared under a [Creative 
 ### FreeSound
 Freesound is a collaborative database (and an amazing source of sounds!) in which individual files are shared under one of three Creative Commons licences: CC0 (Public Domain), CC BY (Attribution), or CC BY-NC (Attribution-NonCommercial). The applicable licence varies per file and is indicated on each sound's page. General licensing information can be found in the [Freesound FAQ](https://freesound.org/help/faq/).
 
-TBC
-
 ### YouTube
-Audio files sourced from YouTube are subject to the [YouTube Terms of Service](https://www.youtube.com/t/terms). Please note that individual recordings may carry separate licensing terms set by the original content creators; these will be documented per file.
-
-TBC
-
-### Google 
-TBC
+Audio files sourced from YouTube are subject to the [YouTube Terms of Service](https://www.youtube.com/t/terms). Please note, however, that individual recordings may carry separate licensing terms set by the original content creators; these will be documented per file.
